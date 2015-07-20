@@ -1,7 +1,7 @@
 ;--------------------------------------------------------
 ; File Created by SDCC : free open source ANSI-C Compiler
 ; Version 3.1.0 #7066 (Nov 22 2011) (MINGW32)
-; This file was generated Wed Jul 15 09:35:42 2015
+; This file was generated Mon Jul 20 08:58:58 2015
 ;--------------------------------------------------------
 	.module barney_rx
 	.optsdcc -mmcs51 --model-medium
@@ -822,8 +822,8 @@ __sdcc_program_startup:
 ;Allocation info for local variables in function 'updateLeds'
 ;------------------------------------------------------------
 	G$updateLeds$0$0 ==.
-	C$barney_rx.c$41$0$0 ==.
-;	apps/barney_rx/barney_rx.c:41: void updateLeds()
+	C$barney_rx.c$42$0$0 ==.
+;	apps/bambam_remote_rx/barney_rx.c:42: void updateLeds()
 ;	-----------------------------------------
 ;	 function updateLeds
 ;	-----------------------------------------
@@ -836,34 +836,34 @@ _updateLeds:
 	ar2 = 0x02
 	ar1 = 0x01
 	ar0 = 0x00
-	C$barney_rx.c$43$2$2 ==.
-;	apps/barney_rx/barney_rx.c:43: LED_GREEN_TOGGLE();
+	C$barney_rx.c$44$2$2 ==.
+;	apps/bambam_remote_rx/barney_rx.c:44: LED_GREEN_TOGGLE();					//Die gruene LED blinkt bei Daten
 	xrl	_P2DIR,#0x10
-	C$barney_rx.c$44$2$3 ==.
-;	apps/barney_rx/barney_rx.c:44: LED_YELLOW(ACM_CONTROL_LINE_DTR);
+	C$barney_rx.c$45$2$3 ==.
+;	apps/bambam_remote_rx/barney_rx.c:45: LED_YELLOW(ACM_CONTROL_LINE_DTR);	//Funktioniert nicht so wie gedacht
 	orl	_P2DIR,#0x04
-	C$barney_rx.c$45$2$4 ==.
-;	apps/barney_rx/barney_rx.c:45: LED_RED(0);
+	C$barney_rx.c$46$2$4 ==.
+;	apps/bambam_remote_rx/barney_rx.c:46: LED_RED(0);							//Ist einfach aus
 	mov	r7,_P2DIR
 	anl	ar7,#0xFD
 	mov	_P2DIR,r7
-	C$barney_rx.c$46$2$4 ==.
+	C$barney_rx.c$47$2$4 ==.
 	XG$updateLeds$0$0 ==.
 	ret
 ;------------------------------------------------------------
 ;Allocation info for local variables in function 'putchar'
 ;------------------------------------------------------------
 	G$putchar$0$0 ==.
-	C$barney_rx.c$48$2$4 ==.
-;	apps/barney_rx/barney_rx.c:48: void putchar(char c)
+	C$barney_rx.c$49$2$4 ==.
+;	apps/bambam_remote_rx/barney_rx.c:49: void putchar(char c)
 ;	-----------------------------------------
 ;	 function putchar
 ;	-----------------------------------------
 _putchar:
-	C$barney_rx.c$50$1$1 ==.
-;	apps/barney_rx/barney_rx.c:50: uart1TxSendByte(c);
-	lcall	_uart1TxSendByte
 	C$barney_rx.c$51$1$1 ==.
+;	apps/bambam_remote_rx/barney_rx.c:51: uart1TxSendByte(c);					//Routine für die Ausgabe einzelner char
+	lcall	_uart1TxSendByte
+	C$barney_rx.c$52$1$1 ==.
 	XG$putchar$0$0 ==.
 	ret
 ;------------------------------------------------------------
@@ -878,14 +878,14 @@ _putchar:
 ;sloc6                     Allocated with name '_radioToUart1Service_sloc6_1_0'
 ;------------------------------------------------------------
 	G$radioToUart1Service$0$0 ==.
-	C$barney_rx.c$53$1$1 ==.
-;	apps/barney_rx/barney_rx.c:53: void radioToUart1Service()
+	C$barney_rx.c$54$1$1 ==.
+;	apps/bambam_remote_rx/barney_rx.c:54: void radioToUart1Service()
 ;	-----------------------------------------
 ;	 function radioToUart1Service
 ;	-----------------------------------------
 _radioToUart1Service:
-	C$barney_rx.c$59$1$1 ==.
-;	apps/barney_rx/barney_rx.c:59: if ((rxPacket = (adcReport XDATA *)radioQueueRxCurrentPacket()) && uart1TxAvailable() >= 64)
+	C$barney_rx.c$60$1$1 ==.
+;	apps/bambam_remote_rx/barney_rx.c:60: if ((rxPacket = (adcReport XDATA *)radioQueueRxCurrentPacket()) && uart1TxAvailable() >= 64)
 	lcall	_radioQueueRxCurrentPacket
 	mov	r6,dpl
 	mov	r7,dph
@@ -907,8 +907,8 @@ _radioToUart1Service:
 	jnc	00120$
 	ljmp	00108$
 00120$:
-	C$barney_rx.c$75$2$2 ==.
-;	apps/barney_rx/barney_rx.c:75: rxPacket->quality & 0x7F // LQI
+	C$barney_rx.c$76$2$2 ==.
+;	apps/bambam_remote_rx/barney_rx.c:76: rxPacket->quality & 0x7F 	// LQI Bitfehlerrate
 	mov	r0,#_radioToUart1Service_rxPacket_1_1
 	movx	a,@r0
 	add	a,#0x12
@@ -924,8 +924,8 @@ _radioToUart1Service:
 	anl	ar3,#0x7F
 	mov	_radioToUart1Service_sloc3_1_0,r3
 	mov	(_radioToUart1Service_sloc3_1_0 + 1),#0x00
-	C$barney_rx.c$74$2$2 ==.
-;	apps/barney_rx/barney_rx.c:74: rxPacket->rssi/2 - 71,   // RSSI
+	C$barney_rx.c$75$2$2 ==.
+;	apps/bambam_remote_rx/barney_rx.c:75: rxPacket->rssi/2 - 71,   	// RSSI dBm
 	mov	r0,#_radioToUart1Service_rxPacket_1_1
 	movx	a,@r0
 	add	a,#0x11
@@ -959,8 +959,8 @@ _radioToUart1Service:
 	mov	a,b
 	addc	a,#0xFF
 	mov	(_radioToUart1Service_sloc1_1_0 + 1),a
-	C$barney_rx.c$73$2$2 ==.
-;	apps/barney_rx/barney_rx.c:73: rxPacket->length,		// Wie viele Pakete wurden empfangen
+	C$barney_rx.c$74$2$2 ==.
+;	apps/bambam_remote_rx/barney_rx.c:74: rxPacket->length,			// Wie viele Pakete wurden empfangen
 	mov	r0,#_radioToUart1Service_rxPacket_1_1
 	movx	a,@r0
 	mov	dpl,a
@@ -971,8 +971,8 @@ _radioToUart1Service:
 	mov	r5,a
 	mov	_radioToUart1Service_sloc2_1_0,r5
 	mov	(_radioToUart1Service_sloc2_1_0 + 1),#0x00
-	C$barney_rx.c$72$2$2 ==.
-;	apps/barney_rx/barney_rx.c:72: getMs(),					// Millisekunden 32bit
+	C$barney_rx.c$73$2$2 ==.
+;	apps/bambam_remote_rx/barney_rx.c:73: getMs(),						// Millisekunden 32bit
 	push	ar7
 	push	ar6
 	lcall	_getMs
@@ -980,8 +980,8 @@ _radioToUart1Service:
 	mov	(_radioToUart1Service_sloc4_1_0 + 1),dph
 	mov	(_radioToUart1Service_sloc4_1_0 + 2),b
 	mov	(_radioToUart1Service_sloc4_1_0 + 3),a
-	C$barney_rx.c$71$2$2 ==.
-;	apps/barney_rx/barney_rx.c:71: rxPacket->serialNumber[0],
+	C$barney_rx.c$72$2$2 ==.
+;	apps/bambam_remote_rx/barney_rx.c:72: rxPacket->serialNumber[0],
 	mov	r0,#_radioToUart1Service_rxPacket_1_1
 	movx	a,@r0
 	add	a,#0x01
@@ -993,8 +993,8 @@ _radioToUart1Service:
 	movx	a,@dptr
 	mov	r5,a
 	mov	r4,#0x00
-	C$barney_rx.c$70$2$2 ==.
-;	apps/barney_rx/barney_rx.c:70: rxPacket->serialNumber[1],
+	C$barney_rx.c$71$2$2 ==.
+;	apps/bambam_remote_rx/barney_rx.c:71: rxPacket->serialNumber[1],
 	mov	r0,#_radioToUart1Service_rxPacket_1_1
 	movx	a,@r0
 	add	a,#0x02
@@ -1007,8 +1007,8 @@ _radioToUart1Service:
 	mov	r3,a
 	mov	_radioToUart1Service_sloc5_1_0,r3
 	mov	(_radioToUart1Service_sloc5_1_0 + 1),#0x00
-	C$barney_rx.c$69$2$2 ==.
-;	apps/barney_rx/barney_rx.c:69: rxPacket->serialNumber[2],
+	C$barney_rx.c$70$2$2 ==.
+;	apps/bambam_remote_rx/barney_rx.c:70: rxPacket->serialNumber[2],
 	mov	r0,#_radioToUart1Service_rxPacket_1_1
 	movx	a,@r0
 	add	a,#0x03
@@ -1021,8 +1021,8 @@ _radioToUart1Service:
 	mov	r3,a
 	mov	_radioToUart1Service_sloc6_1_0,r3
 	mov	(_radioToUart1Service_sloc6_1_0 + 1),#0x00
-	C$barney_rx.c$68$2$2 ==.
-;	apps/barney_rx/barney_rx.c:68: rxPacket->serialNumber[3],
+	C$barney_rx.c$69$2$2 ==.
+;	apps/bambam_remote_rx/barney_rx.c:69: rxPacket->serialNumber[3],	//Ausgabe der Sender Seriennummer
 	mov	r0,#_radioToUart1Service_rxPacket_1_1
 	movx	a,@r0
 	add	a,#0x04
@@ -1034,8 +1034,8 @@ _radioToUart1Service:
 	movx	a,@dptr
 	mov	r3,a
 	mov	r2,#0x00
-	C$barney_rx.c$67$2$2 ==.
-;	apps/barney_rx/barney_rx.c:67: printf("%02X-%02X-%02X-%02X,%12lu,%4d,%4d,%4d, ",
+	C$barney_rx.c$68$2$2 ==.
+;	apps/bambam_remote_rx/barney_rx.c:68: printf("%02X-%02X-%02X-%02X,%12lu,%4d,%4d,%4d, ",
 	push	_radioToUart1Service_sloc3_1_0
 	push	(_radioToUart1Service_sloc3_1_0 + 1)
 	push	_radioToUart1Service_sloc1_1_0
@@ -1066,8 +1066,8 @@ _radioToUart1Service:
 	mov	sp,a
 	pop	ar6
 	pop	ar7
-	C$barney_rx.c$80$2$2 ==.
-;	apps/barney_rx/barney_rx.c:80: putchar((rxPacket->quality & 0x80) ? '1' : '0');
+	C$barney_rx.c$81$2$2 ==.
+;	apps/bambam_remote_rx/barney_rx.c:81: putchar((rxPacket->quality & 0x80) ? '1' : '0');
 	mov	dpl,r6
 	mov	dph,r7
 	movx	a,@dptr
@@ -1080,8 +1080,8 @@ _radioToUart1Service:
 00111$:
 	mov	dpl,r7
 	lcall	_putchar
-	C$barney_rx.c$82$3$3 ==.
-;	apps/barney_rx/barney_rx.c:82: for(i = 0; i < 6; i++)
+	C$barney_rx.c$84$3$3 ==.
+;	apps/bambam_remote_rx/barney_rx.c:84: for(i = 0; i < 6; i++)
 	mov	r0,#_radioToUart1Service_rxPacket_1_1
 	movx	a,@r0
 	add	a,#0x05
@@ -1095,8 +1095,8 @@ _radioToUart1Service:
 	cjne	r5,#0x06,00124$
 00124$:
 	jnc	00107$
-	C$barney_rx.c$84$3$3 ==.
-;	apps/barney_rx/barney_rx.c:84: printf(",%5u", rxPacket->readings[i]);
+	C$barney_rx.c$86$3$3 ==.
+;	apps/bambam_remote_rx/barney_rx.c:86: printf(",%5u", rxPacket->readings[i]);
 	mov	a,r5
 	add	a,r5
 	add	a,r6
@@ -1127,95 +1127,95 @@ _radioToUart1Service:
 	pop	ar5
 	pop	ar6
 	pop	ar7
-	C$barney_rx.c$82$2$2 ==.
-;	apps/barney_rx/barney_rx.c:82: for(i = 0; i < 6; i++)
+	C$barney_rx.c$84$2$2 ==.
+;	apps/bambam_remote_rx/barney_rx.c:84: for(i = 0; i < 6; i++)
 	inc	r5
 	sjmp	00104$
 00107$:
-	C$barney_rx.c$87$2$2 ==.
-;	apps/barney_rx/barney_rx.c:87: putchar('\r');
+	C$barney_rx.c$90$2$2 ==.
+;	apps/bambam_remote_rx/barney_rx.c:90: putchar('\r');
 	mov	dpl,#0x0D
 	lcall	_putchar
-	C$barney_rx.c$88$2$2 ==.
-;	apps/barney_rx/barney_rx.c:88: putchar('\n');
+	C$barney_rx.c$91$2$2 ==.
+;	apps/bambam_remote_rx/barney_rx.c:91: putchar('\n');
 	mov	dpl,#0x0A
 	lcall	_putchar
-	C$barney_rx.c$90$2$2 ==.
-;	apps/barney_rx/barney_rx.c:90: radioQueueRxDoneWithPacket();
+	C$barney_rx.c$93$2$2 ==.
+;	apps/bambam_remote_rx/barney_rx.c:93: radioQueueRxDoneWithPacket();
 	lcall	_radioQueueRxDoneWithPacket
 00108$:
-	C$barney_rx.c$92$2$1 ==.
+	C$barney_rx.c$95$2$1 ==.
 	XG$radioToUart1Service$0$0 ==.
 	ret
 ;------------------------------------------------------------
 ;Allocation info for local variables in function 'lineCodingChanged'
 ;------------------------------------------------------------
 	G$lineCodingChanged$0$0 ==.
-	C$barney_rx.c$94$2$1 ==.
-;	apps/barney_rx/barney_rx.c:94: void lineCodingChanged()
+	C$barney_rx.c$97$2$1 ==.
+;	apps/bambam_remote_rx/barney_rx.c:97: void lineCodingChanged()
 ;	-----------------------------------------
 ;	 function lineCodingChanged
 ;	-----------------------------------------
 _lineCodingChanged:
-	C$barney_rx.c$96$1$1 ==.
-;	apps/barney_rx/barney_rx.c:96: uart1SetBaudRate(230400); //230400
+	C$barney_rx.c$99$1$1 ==.
+;	apps/bambam_remote_rx/barney_rx.c:99: uart1SetBaudRate(230400); 	//Baudrate setzen
 	mov	dptr,#0x8400
 	mov	b,#0x03
 	clr	a
 	lcall	_uart1SetBaudRate
-	C$barney_rx.c$97$1$1 ==.
-;	apps/barney_rx/barney_rx.c:97: uart1SetParity(0);
+	C$barney_rx.c$100$1$1 ==.
+;	apps/bambam_remote_rx/barney_rx.c:100: uart1SetParity(0);			//kein Parity
 	mov	dpl,#0x00
 	lcall	_uart1SetParity
-	C$barney_rx.c$98$1$1 ==.
-;	apps/barney_rx/barney_rx.c:98: uart1SetStopBits(0);
+	C$barney_rx.c$101$1$1 ==.
+;	apps/bambam_remote_rx/barney_rx.c:101: uart1SetStopBits(0);		//keine Stopbits
 	mov	dpl,#0x00
 	lcall	_uart1SetStopBits
-	C$barney_rx.c$99$1$1 ==.
+	C$barney_rx.c$102$1$1 ==.
 	XG$lineCodingChanged$0$0 ==.
 	ret
 ;------------------------------------------------------------
 ;Allocation info for local variables in function 'main'
 ;------------------------------------------------------------
 	G$main$0$0 ==.
-	C$barney_rx.c$101$1$1 ==.
-;	apps/barney_rx/barney_rx.c:101: void main(void)
+	C$barney_rx.c$104$1$1 ==.
+;	apps/bambam_remote_rx/barney_rx.c:104: void main(void)
 ;	-----------------------------------------
 ;	 function main
 ;	-----------------------------------------
 _main:
-	C$barney_rx.c$103$1$1 ==.
-;	apps/barney_rx/barney_rx.c:103: systemInit();
-	lcall	_systemInit
-	C$barney_rx.c$105$1$1 ==.
-;	apps/barney_rx/barney_rx.c:105: radioQueueInit();
-	lcall	_radioQueueInit
 	C$barney_rx.c$106$1$1 ==.
-;	apps/barney_rx/barney_rx.c:106: radioQueueAllowCrcErrors = 1;  //Fehlerhafte Pakete zulassen
-	setb	_radioQueueAllowCrcErrors
+;	apps/bambam_remote_rx/barney_rx.c:106: systemInit();
+	lcall	_systemInit
 	C$barney_rx.c$108$1$1 ==.
-;	apps/barney_rx/barney_rx.c:108: uart1Init();
-	lcall	_uart1Init
+;	apps/bambam_remote_rx/barney_rx.c:108: radioQueueInit();				//Empfaenger initialisieren
+	lcall	_radioQueueInit
 	C$barney_rx.c$109$1$1 ==.
-;	apps/barney_rx/barney_rx.c:109: lineCodingChanged();
-	lcall	_lineCodingChanged
+;	apps/bambam_remote_rx/barney_rx.c:109: radioQueueAllowCrcErrors = 1;	//Fehlerhafte Pakete zulassen
+	setb	_radioQueueAllowCrcErrors
 	C$barney_rx.c$111$1$1 ==.
-;	apps/barney_rx/barney_rx.c:111: while(1)
+;	apps/bambam_remote_rx/barney_rx.c:111: uart1Init();					//Serielle Schnittstelle initialisieren
+	lcall	_uart1Init
+	C$barney_rx.c$112$1$1 ==.
+;	apps/bambam_remote_rx/barney_rx.c:112: lineCodingChanged();			//Einstellen der Schnittstellen Eigenschaft
+	lcall	_lineCodingChanged
+	C$barney_rx.c$114$1$1 ==.
+;	apps/bambam_remote_rx/barney_rx.c:114: while(1)
 00102$:
-	C$barney_rx.c$113$2$2 ==.
-;	apps/barney_rx/barney_rx.c:113: updateLeds();
-	lcall	_updateLeds
-	C$barney_rx.c$114$2$2 ==.
-;	apps/barney_rx/barney_rx.c:114: boardService();
-	lcall	_boardService
-	C$barney_rx.c$115$2$2 ==.
-;	apps/barney_rx/barney_rx.c:115: usbComService();
-	lcall	_usbComService
 	C$barney_rx.c$116$2$2 ==.
-;	apps/barney_rx/barney_rx.c:116: radioToUart1Service();
+;	apps/bambam_remote_rx/barney_rx.c:116: updateLeds();				//Status der LEDs veraendern
+	lcall	_updateLeds
+	C$barney_rx.c$117$2$2 ==.
+;	apps/bambam_remote_rx/barney_rx.c:117: boardService();
+	lcall	_boardService
+	C$barney_rx.c$118$2$2 ==.
+;	apps/bambam_remote_rx/barney_rx.c:118: usbComService();
+	lcall	_usbComService
+	C$barney_rx.c$119$2$2 ==.
+;	apps/bambam_remote_rx/barney_rx.c:119: radioToUart1Service();		//Empfangen der Daten
 	lcall	_radioToUart1Service
 	sjmp	00102$
-	C$barney_rx.c$118$1$1 ==.
+	C$barney_rx.c$121$1$1 ==.
 	XG$main$0$0 ==.
 	ret
 	.area CSEG    (CODE)

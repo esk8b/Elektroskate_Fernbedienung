@@ -4916,30 +4916,30 @@ CSEG                                00000528    00001D39 =        7481. bytes (R
       Value  Global                              Global Defined In Module
       -----  --------------------------------   ------------------------
      0C:   00000528  A$barney_rx$841                    barney_rx
-     0C:   00000528  C$barney_rx.c$41$0$0               barney_rx
-     0C:   00000528  C$barney_rx.c$43$2$2               barney_rx
+     0C:   00000528  C$barney_rx.c$42$0$0               barney_rx
+     0C:   00000528  C$barney_rx.c$44$2$2               barney_rx
      0C:   00000528  G$updateLeds$0$0                   barney_rx
      0C:   00000528  _updateLeds                        barney_rx
      0C:   0000052B  A$barney_rx$844                    barney_rx
-     0C:   0000052B  C$barney_rx.c$44$2$3               barney_rx
+     0C:   0000052B  C$barney_rx.c$45$2$3               barney_rx
      0C:   0000052E  A$barney_rx$847                    barney_rx
-     0C:   0000052E  C$barney_rx.c$45$2$4               barney_rx
+     0C:   0000052E  C$barney_rx.c$46$2$4               barney_rx
      0C:   00000530  A$barney_rx$848                    barney_rx
      0C:   00000533  A$barney_rx$849                    barney_rx
      0C:   00000535  A$barney_rx$852                    barney_rx
-     0C:   00000535  C$barney_rx.c$46$2$4               barney_rx
+     0C:   00000535  C$barney_rx.c$47$2$4               barney_rx
      0C:   00000535  XG$updateLeds$0$0                  barney_rx
      0C:   00000536  A$barney_rx$865                    barney_rx
-     0C:   00000536  C$barney_rx.c$48$2$4               barney_rx
-     0C:   00000536  C$barney_rx.c$50$1$1               barney_rx
+     0C:   00000536  C$barney_rx.c$49$2$4               barney_rx
+     0C:   00000536  C$barney_rx.c$51$1$1               barney_rx
      0C:   00000536  G$putchar$0$0                      barney_rx
      0C:   00000536  _putchar                           barney_rx
      0C:   00000539  A$barney_rx$868                    barney_rx
-     0C:   00000539  C$barney_rx.c$51$1$1               barney_rx
+     0C:   00000539  C$barney_rx.c$52$1$1               barney_rx
      0C:   00000539  XG$putchar$0$0                     barney_rx
      0C:   0000053A  A$barney_rx$889                    barney_rx
-     0C:   0000053A  C$barney_rx.c$53$1$1               barney_rx
-     0C:   0000053A  C$barney_rx.c$59$1$1               barney_rx
+     0C:   0000053A  C$barney_rx.c$54$1$1               barney_rx
+     0C:   0000053A  C$barney_rx.c$60$1$1               barney_rx
      0C:   0000053A  G$radioToUart1Service$0$0          barney_rx
      0C:   0000053A  _radioToUart1Service               barney_rx
      0C:   0000053D  A$barney_rx$890                    barney_rx
@@ -4960,7 +4960,7 @@ CSEG                                00000528    00001D39 =        7481. bytes (R
      0C:   00000557  A$barney_rx$907                    barney_rx
      0C:   00000559  A$barney_rx$908                    barney_rx
      0C:   0000055C  A$barney_rx$912                    barney_rx
-     0C:   0000055C  C$barney_rx.c$75$2$2               barney_rx
+     0C:   0000055C  C$barney_rx.c$76$2$2               barney_rx
      0C:   0000055E  A$barney_rx$913                    barney_rx
      0C:   0000055F  A$barney_rx$914                    barney_rx
      0C:   00000561  A$barney_rx$915                    barney_rx
@@ -4985,7 +4985,7 @@ CSEG                                00000528    00001D39 =        7481. bytes (R
      0C:   00000570  A$barney_rx$925                    barney_rx
      0C:   00000572  A$barney_rx$926                    barney_rx
      0C:   00000575  A$barney_rx$929                    barney_rx
-     0C:   00000575  C$barney_rx.c$74$2$2               barney_rx
+     0C:   00000575  C$barney_rx.c$75$2$2               barney_rx
      0C:   00000577  A$barney_rx$930                    barney_rx
      0C:   00000578  A$barney_rx$931                    barney_rx
      0C:   0000057A  A$barney_rx$932                    barney_rx
@@ -5017,7 +5017,7 @@ CSEG                                00000528    00001D39 =        7481. bytes (R
      0C:   000005A9  A$barney_rx$960                    barney_rx
      0C:   000005AB  A$barney_rx$961                    barney_rx
      0C:   000005AD  A$barney_rx$964                    barney_rx
-     0C:   000005AD  C$barney_rx.c$73$2$2               barney_rx
+     0C:   000005AD  C$barney_rx.c$74$2$2               barney_rx
      0C:   000005AF  A$barney_rx$965                    barney_rx
      0C:   000005B0  A$barney_rx$966                    barney_rx
      0C:   000005B2  A$barney_rx$967                    barney_rx
@@ -5037,7 +5037,7 @@ CSEG                                00000528    00001D39 =        7481. bytes (R
      0C:   000005B8  A$barney_rx$972                    barney_rx
      0C:   000005BA  A$barney_rx$973                    barney_rx
      0C:   000005BD  A$barney_rx$976                    barney_rx
-     0C:   000005BD  C$barney_rx.c$72$2$2               barney_rx
+     0C:   000005BD  C$barney_rx.c$73$2$2               barney_rx
      0C:   000005BF  A$barney_rx$977                    barney_rx
      0C:   000005C1  A$barney_rx$978                    barney_rx
      0C:   000005C4  A$barney_rx$979                    barney_rx
@@ -5045,7 +5045,7 @@ CSEG                                00000528    00001D39 =        7481. bytes (R
      0C:   000005CA  A$barney_rx$981                    barney_rx
      0C:   000005CD  A$barney_rx$982                    barney_rx
      0C:   000005CF  A$barney_rx$985                    barney_rx
-     0C:   000005CF  C$barney_rx.c$71$2$2               barney_rx
+     0C:   000005CF  C$barney_rx.c$72$2$2               barney_rx
      0C:   000005D1  A$barney_rx$986                    barney_rx
      0C:   000005D2  A$barney_rx$987                    barney_rx
      0C:   000005D4  A$barney_rx$988                    barney_rx
@@ -5057,7 +5057,7 @@ CSEG                                00000528    00001D39 =        7481. bytes (R
      0C:   000005DD  A$barney_rx$994                    barney_rx
      0C:   000005DE  A$barney_rx$995                    barney_rx
      0C:   000005E0  A$barney_rx$998                    barney_rx
-     0C:   000005E0  C$barney_rx.c$70$2$2               barney_rx
+     0C:   000005E0  C$barney_rx.c$71$2$2               barney_rx
      0C:   000005E2  A$barney_rx$999                    barney_rx
      0C:   000005E3  A$barney_rx$1000                   barney_rx
      0C:   000005E5  A$barney_rx$1001                   barney_rx
@@ -5070,7 +5070,7 @@ CSEG                                00000528    00001D39 =        7481. bytes (R
      0C:   000005EF  A$barney_rx$1008                   barney_rx
      0C:   000005F1  A$barney_rx$1009                   barney_rx
      0C:   000005F4  A$barney_rx$1012                   barney_rx
-     0C:   000005F4  C$barney_rx.c$69$2$2               barney_rx
+     0C:   000005F4  C$barney_rx.c$70$2$2               barney_rx
      0C:   000005F6  A$barney_rx$1013                   barney_rx
      0C:   000005F7  A$barney_rx$1014                   barney_rx
      0C:   000005F9  A$barney_rx$1015                   barney_rx
@@ -5083,7 +5083,7 @@ CSEG                                00000528    00001D39 =        7481. bytes (R
      0C:   00000603  A$barney_rx$1022                   barney_rx
      0C:   00000605  A$barney_rx$1023                   barney_rx
      0C:   00000608  A$barney_rx$1026                   barney_rx
-     0C:   00000608  C$barney_rx.c$68$2$2               barney_rx
+     0C:   00000608  C$barney_rx.c$69$2$2               barney_rx
      0C:   0000060A  A$barney_rx$1027                   barney_rx
 ASxxxx Linker V02.00 + NoICE + sdld,  page 99.
 Hexadecimal  [32-Bits]
@@ -5104,7 +5104,7 @@ CSEG                                00000528    00001D39 =        7481. bytes (R
      0C:   00000616  A$barney_rx$1035                   barney_rx
      0C:   00000617  A$barney_rx$1036                   barney_rx
      0C:   00000619  A$barney_rx$1039                   barney_rx
-     0C:   00000619  C$barney_rx.c$67$2$2               barney_rx
+     0C:   00000619  C$barney_rx.c$68$2$2               barney_rx
      0C:   0000061B  A$barney_rx$1040                   barney_rx
      0C:   0000061D  A$barney_rx$1041                   barney_rx
      0C:   0000061F  A$barney_rx$1042                   barney_rx
@@ -5135,7 +5135,7 @@ CSEG                                00000528    00001D39 =        7481. bytes (R
      0C:   00000652  A$barney_rx$1067                   barney_rx
      0C:   00000654  A$barney_rx$1068                   barney_rx
      0C:   00000656  A$barney_rx$1071                   barney_rx
-     0C:   00000656  C$barney_rx.c$80$2$2               barney_rx
+     0C:   00000656  C$barney_rx.c$81$2$2               barney_rx
      0C:   00000658  A$barney_rx$1072                   barney_rx
      0C:   0000065A  A$barney_rx$1073                   barney_rx
      0C:   0000065B  A$barney_rx$1074                   barney_rx
@@ -5155,7 +5155,7 @@ CSEG                                00000528    00001D39 =        7481. bytes (R
       Value  Global                              Global Defined In Module
       -----  --------------------------------   ------------------------
      0C:   0000066A  A$barney_rx$1085                   barney_rx
-     0C:   0000066A  C$barney_rx.c$82$3$3               barney_rx
+     0C:   0000066A  C$barney_rx.c$84$3$3               barney_rx
      0C:   0000066C  A$barney_rx$1086                   barney_rx
      0C:   0000066D  A$barney_rx$1087                   barney_rx
      0C:   0000066F  A$barney_rx$1088                   barney_rx
@@ -5167,7 +5167,7 @@ CSEG                                00000528    00001D39 =        7481. bytes (R
      0C:   00000677  A$barney_rx$1095                   barney_rx
      0C:   0000067A  A$barney_rx$1097                   barney_rx
      0C:   0000067C  A$barney_rx$1100                   barney_rx
-     0C:   0000067C  C$barney_rx.c$84$3$3               barney_rx
+     0C:   0000067C  C$barney_rx.c$86$3$3               barney_rx
      0C:   0000067D  A$barney_rx$1101                   barney_rx
      0C:   0000067E  A$barney_rx$1102                   barney_rx
      0C:   0000067F  A$barney_rx$1103                   barney_rx
@@ -5198,13 +5198,13 @@ CSEG                                00000528    00001D39 =        7481. bytes (R
      0C:   000006AB  A$barney_rx$1128                   barney_rx
      0C:   000006AD  A$barney_rx$1129                   barney_rx
      0C:   000006AF  A$barney_rx$1132                   barney_rx
-     0C:   000006AF  C$barney_rx.c$82$2$2               barney_rx
+     0C:   000006AF  C$barney_rx.c$84$2$2               barney_rx
      0C:   000006B0  A$barney_rx$1133                   barney_rx
      0C:   000006B2  A$barney_rx$1137                   barney_rx
-     0C:   000006B2  C$barney_rx.c$87$2$2               barney_rx
+     0C:   000006B2  C$barney_rx.c$90$2$2               barney_rx
      0C:   000006B5  A$barney_rx$1138                   barney_rx
      0C:   000006B8  A$barney_rx$1141                   barney_rx
-     0C:   000006B8  C$barney_rx.c$88$2$2               barney_rx
+     0C:   000006B8  C$barney_rx.c$91$2$2               barney_rx
 ASxxxx Linker V02.00 + NoICE + sdld,  page 101.
 Hexadecimal  [32-Bits]
 
@@ -5216,52 +5216,52 @@ CSEG                                00000528    00001D39 =        7481. bytes (R
       -----  --------------------------------   ------------------------
      0C:   000006BB  A$barney_rx$1142                   barney_rx
      0C:   000006BE  A$barney_rx$1145                   barney_rx
-     0C:   000006BE  C$barney_rx.c$90$2$2               barney_rx
+     0C:   000006BE  C$barney_rx.c$93$2$2               barney_rx
      0C:   000006C1  A$barney_rx$1149                   barney_rx
-     0C:   000006C1  C$barney_rx.c$92$2$1               barney_rx
+     0C:   000006C1  C$barney_rx.c$95$2$1               barney_rx
      0C:   000006C1  XG$radioToUart1Service$0$0         barney_rx
      0C:   000006C2  A$barney_rx$1162                   barney_rx
-     0C:   000006C2  C$barney_rx.c$94$2$1               barney_rx
-     0C:   000006C2  C$barney_rx.c$96$1$1               barney_rx
+     0C:   000006C2  C$barney_rx.c$97$2$1               barney_rx
+     0C:   000006C2  C$barney_rx.c$99$1$1               barney_rx
      0C:   000006C2  G$lineCodingChanged$0$0            barney_rx
      0C:   000006C2  _lineCodingChanged                 barney_rx
      0C:   000006C5  A$barney_rx$1163                   barney_rx
      0C:   000006C8  A$barney_rx$1164                   barney_rx
      0C:   000006C9  A$barney_rx$1165                   barney_rx
      0C:   000006CC  A$barney_rx$1168                   barney_rx
-     0C:   000006CC  C$barney_rx.c$97$1$1               barney_rx
+     0C:   000006CC  C$barney_rx.c$100$1$1              barney_rx
      0C:   000006CF  A$barney_rx$1169                   barney_rx
      0C:   000006D2  A$barney_rx$1172                   barney_rx
-     0C:   000006D2  C$barney_rx.c$98$1$1               barney_rx
+     0C:   000006D2  C$barney_rx.c$101$1$1              barney_rx
      0C:   000006D5  A$barney_rx$1173                   barney_rx
      0C:   000006D8  A$barney_rx$1176                   barney_rx
-     0C:   000006D8  C$barney_rx.c$99$1$1               barney_rx
+     0C:   000006D8  C$barney_rx.c$102$1$1              barney_rx
      0C:   000006D8  XG$lineCodingChanged$0$0           barney_rx
      0C:   000006D9  A$barney_rx$1189                   barney_rx
-     0C:   000006D9  C$barney_rx.c$101$1$1              barney_rx
-     0C:   000006D9  C$barney_rx.c$103$1$1              barney_rx
+     0C:   000006D9  C$barney_rx.c$104$1$1              barney_rx
+     0C:   000006D9  C$barney_rx.c$106$1$1              barney_rx
      0C:   000006D9  G$main$0$0                         barney_rx
      0C:   000006D9  _main                              barney_rx
      0C:   000006DC  A$barney_rx$1192                   barney_rx
-     0C:   000006DC  C$barney_rx.c$105$1$1              barney_rx
+     0C:   000006DC  C$barney_rx.c$108$1$1              barney_rx
      0C:   000006DF  A$barney_rx$1195                   barney_rx
-     0C:   000006DF  C$barney_rx.c$106$1$1              barney_rx
+     0C:   000006DF  C$barney_rx.c$109$1$1              barney_rx
      0C:   000006E1  A$barney_rx$1198                   barney_rx
-     0C:   000006E1  C$barney_rx.c$108$1$1              barney_rx
+     0C:   000006E1  C$barney_rx.c$111$1$1              barney_rx
      0C:   000006E4  A$barney_rx$1201                   barney_rx
-     0C:   000006E4  C$barney_rx.c$109$1$1              barney_rx
+     0C:   000006E4  C$barney_rx.c$112$1$1              barney_rx
      0C:   000006E7  A$barney_rx$1207                   barney_rx
-     0C:   000006E7  C$barney_rx.c$111$1$1              barney_rx
-     0C:   000006E7  C$barney_rx.c$113$2$2              barney_rx
+     0C:   000006E7  C$barney_rx.c$114$1$1              barney_rx
+     0C:   000006E7  C$barney_rx.c$116$2$2              barney_rx
      0C:   000006EA  A$barney_rx$1210                   barney_rx
-     0C:   000006EA  C$barney_rx.c$114$2$2              barney_rx
+     0C:   000006EA  C$barney_rx.c$117$2$2              barney_rx
      0C:   000006ED  A$barney_rx$1213                   barney_rx
-     0C:   000006ED  C$barney_rx.c$115$2$2              barney_rx
+     0C:   000006ED  C$barney_rx.c$118$2$2              barney_rx
      0C:   000006F0  A$barney_rx$1216                   barney_rx
-     0C:   000006F0  C$barney_rx.c$116$2$2              barney_rx
+     0C:   000006F0  C$barney_rx.c$119$2$2              barney_rx
      0C:   000006F3  A$barney_rx$1217                   barney_rx
      0C:   000006F5  A$barney_rx$1220                   barney_rx
-     0C:   000006F5  C$barney_rx.c$118$1$1              barney_rx
+     0C:   000006F5  C$barney_rx.c$121$1$1              barney_rx
      0C:   000006F5  XG$main$0$0                        barney_rx
      0C:   000006F6  A$uart1$788                        uart1
      0C:   000006F6  C$uart1.c$87$0$0                   uart1

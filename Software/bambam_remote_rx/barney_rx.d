@@ -1,4 +1,4 @@
-apps/barney_rx/barney_rx.rel: apps/barney_rx/barney_rx.c \
+apps/bambam_remote_rx/barney_rx.rel: apps/bambam_remote_rx/barney_rx.c \
  libraries/include/wixel.h libraries/include/cc2511_types.h \
  libraries/include/cc2511_map.h libraries/include/board.h \
  libraries/include/time.h libraries/include/dma.h libraries/include/adc.h \
