@@ -29,6 +29,6 @@
 -l liblong
 -l libfloat
 libraries/xpage/xpage.rel
-apps/bambam_remote_rx/barney_rx.rel
+apps/bambam_remote_rx/bambam_remote_rx.rel
 
 -e

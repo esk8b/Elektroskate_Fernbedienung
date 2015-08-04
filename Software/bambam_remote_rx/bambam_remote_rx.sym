@@ -4,271 +4,271 @@ Symbol Table
 
     .__.ABS.                                                    =  0000 G
     A                                                              00E0 
- 18 A$barney_rx$1000                                               00BB GR
- 18 A$barney_rx$1001                                               00BD GR
- 18 A$barney_rx$1002                                               00BF GR
- 18 A$barney_rx$1003                                               00C0 GR
- 18 A$barney_rx$1004                                               00C1 GR
- 18 A$barney_rx$1005                                               00C3 GR
- 18 A$barney_rx$1006                                               00C5 GR
- 18 A$barney_rx$1007                                               00C6 GR
- 18 A$barney_rx$1008                                               00C7 GR
- 18 A$barney_rx$1009                                               00C9 GR
- 18 A$barney_rx$1012                                               00CC GR
- 18 A$barney_rx$1013                                               00CE GR
- 18 A$barney_rx$1014                                               00CF GR
- 18 A$barney_rx$1015                                               00D1 GR
- 18 A$barney_rx$1016                                               00D3 GR
- 18 A$barney_rx$1017                                               00D4 GR
- 18 A$barney_rx$1018                                               00D5 GR
- 18 A$barney_rx$1019                                               00D7 GR
- 18 A$barney_rx$1020                                               00D9 GR
- 18 A$barney_rx$1021                                               00DA GR
- 18 A$barney_rx$1022                                               00DB GR
- 18 A$barney_rx$1023                                               00DD GR
- 18 A$barney_rx$1026                                               00E0 GR
- 18 A$barney_rx$1027                                               00E2 GR
- 18 A$barney_rx$1028                                               00E3 GR
- 18 A$barney_rx$1029                                               00E5 GR
- 18 A$barney_rx$1030                                               00E7 GR
- 18 A$barney_rx$1031                                               00E8 GR
- 18 A$barney_rx$1032                                               00E9 GR
- 18 A$barney_rx$1033                                               00EB GR
- 18 A$barney_rx$1034                                               00ED GR
- 18 A$barney_rx$1035                                               00EE GR
- 18 A$barney_rx$1036                                               00EF GR
- 18 A$barney_rx$1039                                               00F1 GR
- 18 A$barney_rx$1040                                               00F3 GR
- 18 A$barney_rx$1041                                               00F5 GR
- 18 A$barney_rx$1042                                               00F7 GR
- 18 A$barney_rx$1043                                               00F9 GR
- 18 A$barney_rx$1044                                               00FB GR
- 18 A$barney_rx$1045                                               00FD GR
- 18 A$barney_rx$1046                                               00FF GR
- 18 A$barney_rx$1047                                               0101 GR
- 18 A$barney_rx$1048                                               0103 GR
- 18 A$barney_rx$1049                                               0105 GR
- 18 A$barney_rx$1050                                               0107 GR
- 18 A$barney_rx$1051                                               0109 GR
- 18 A$barney_rx$1052                                               010B GR
- 18 A$barney_rx$1053                                               010D GR
- 18 A$barney_rx$1054                                               010F GR
- 18 A$barney_rx$1055                                               0111 GR
- 18 A$barney_rx$1056                                               0113 GR
- 18 A$barney_rx$1057                                               0115 GR
- 18 A$barney_rx$1058                                               0117 GR
- 18 A$barney_rx$1059                                               0119 GR
- 18 A$barney_rx$1060                                               011B GR
- 18 A$barney_rx$1061                                               011D GR
- 18 A$barney_rx$1062                                               011F GR
- 18 A$barney_rx$1063                                               0121 GR
- 18 A$barney_rx$1064                                               0124 GR
- 18 A$barney_rx$1065                                               0126 GR
- 18 A$barney_rx$1066                                               0128 GR
- 18 A$barney_rx$1067                                               012A GR
- 18 A$barney_rx$1068                                               012C GR
- 18 A$barney_rx$1071                                               012E GR
- 18 A$barney_rx$1072                                               0130 GR
- 18 A$barney_rx$1073                                               0132 GR
- 18 A$barney_rx$1074                                               0133 GR
- 18 A$barney_rx$1075                                               0134 GR
- 18 A$barney_rx$1076                                               0137 GR
- 18 A$barney_rx$1077                                               0139 GR
- 18 A$barney_rx$1079                                               013B GR
- 18 A$barney_rx$1081                                               013D GR
- 18 A$barney_rx$1082                                               013F GR
- 18 A$barney_rx$1085                                               0142 GR
- 18 A$barney_rx$1086                                               0144 GR
- 18 A$barney_rx$1087                                               0145 GR
- 18 A$barney_rx$1088                                               0147 GR
- 18 A$barney_rx$1089                                               0148 GR
- 18 A$barney_rx$1090                                               0149 GR
- 18 A$barney_rx$1091                                               014A GR
- 18 A$barney_rx$1092                                               014C GR
- 18 A$barney_rx$1093                                               014D GR
- 18 A$barney_rx$1095                                               014F GR
- 18 A$barney_rx$1097                                               0152 GR
- 18 A$barney_rx$1100                                               0154 GR
- 18 A$barney_rx$1101                                               0155 GR
- 18 A$barney_rx$1102                                               0156 GR
- 18 A$barney_rx$1103                                               0157 GR
- 18 A$barney_rx$1104                                               0159 GR
- 18 A$barney_rx$1105                                               015A GR
- 18 A$barney_rx$1106                                               015B GR
- 18 A$barney_rx$1107                                               015D GR
- 18 A$barney_rx$1108                                               015E GR
- 18 A$barney_rx$1109                                               015F GR
- 18 A$barney_rx$1110                                               0160 GR
- 18 A$barney_rx$1111                                               0161 GR
- 18 A$barney_rx$1112                                               0162 GR
- 18 A$barney_rx$1113                                               0164 GR
- 18 A$barney_rx$1114                                               0166 GR
- 18 A$barney_rx$1115                                               0168 GR
- 18 A$barney_rx$1116                                               016A GR
- 18 A$barney_rx$1117                                               016C GR
- 18 A$barney_rx$1118                                               016E GR
- 18 A$barney_rx$1119                                               0170 GR
- 18 A$barney_rx$1120                                               0172 GR
- 18 A$barney_rx$1121                                               0174 GR
- 18 A$barney_rx$1122                                               0176 GR
- 18 A$barney_rx$1123                                               0178 GR
- 18 A$barney_rx$1124                                               017B GR
- 18 A$barney_rx$1125                                               017D GR
- 18 A$barney_rx$1126                                               017F GR
- 18 A$barney_rx$1127                                               0181 GR
- 18 A$barney_rx$1128                                               0183 GR
- 18 A$barney_rx$1129                                               0185 GR
- 18 A$barney_rx$1132                                               0187 GR
- 18 A$barney_rx$1133                                               0188 GR
- 18 A$barney_rx$1137                                               018A GR
- 18 A$barney_rx$1138                                               018D GR
- 18 A$barney_rx$1141                                               0190 GR
- 18 A$barney_rx$1142                                               0193 GR
- 18 A$barney_rx$1145                                               0196 GR
- 18 A$barney_rx$1149                                               0199 GR
- 18 A$barney_rx$1162                                               019A GR
- 18 A$barney_rx$1163                                               019D GR
- 18 A$barney_rx$1164                                               01A0 GR
- 18 A$barney_rx$1165                                               01A1 GR
- 18 A$barney_rx$1168                                               01A4 GR
- 18 A$barney_rx$1169                                               01A7 GR
- 18 A$barney_rx$1172                                               01AA GR
- 18 A$barney_rx$1173                                               01AD GR
- 18 A$barney_rx$1176                                               01B0 GR
- 18 A$barney_rx$1189                                               01B1 GR
- 18 A$barney_rx$1192                                               01B4 GR
- 18 A$barney_rx$1195                                               01B7 GR
- 18 A$barney_rx$1198                                               01B9 GR
- 18 A$barney_rx$1201                                               01BC GR
- 18 A$barney_rx$1207                                               01BF GR
- 18 A$barney_rx$1210                                               01C2 GR
- 18 A$barney_rx$1213                                               01C5 GR
- 18 A$barney_rx$1216                                               01C8 GR
- 18 A$barney_rx$1217                                               01CB GR
- 18 A$barney_rx$1220                                               01CD GR
-  F A$barney_rx$759                                                0000 GR
-  F A$barney_rx$760                                                0003 GR
-  F A$barney_rx$762                                                000B GR
-  F A$barney_rx$764                                                0013 GR
-  F A$barney_rx$766                                                001B GR
-  F A$barney_rx$768                                                0023 GR
-  F A$barney_rx$770                                                002B GR
-  F A$barney_rx$772                                                0033 GR
-  F A$barney_rx$774                                                003B GR
-  F A$barney_rx$776                                                0043 GR
-  F A$barney_rx$778                                                004B GR
-  F A$barney_rx$780                                                0053 GR
-  F A$barney_rx$782                                                005B GR
-  F A$barney_rx$784                                                0063 GR
-  F A$barney_rx$786                                                006B GR
-  F A$barney_rx$788                                                0073 GR
-  F A$barney_rx$790                                                007B GR
-  F A$barney_rx$792                                                0083 GR
- 17 A$barney_rx$807                                                0000 GR
-  F A$barney_rx$814                                                0086 GR
-  F A$barney_rx$816                                                0089 GR
- 18 A$barney_rx$841                                                0000 GR
- 18 A$barney_rx$844                                                0003 GR
- 18 A$barney_rx$847                                                0006 GR
- 18 A$barney_rx$848                                                0008 GR
- 18 A$barney_rx$849                                                000B GR
- 18 A$barney_rx$852                                                000D GR
- 18 A$barney_rx$865                                                000E GR
- 18 A$barney_rx$868                                                0011 GR
- 18 A$barney_rx$889                                                0012 GR
- 18 A$barney_rx$890                                                0015 GR
- 18 A$barney_rx$891                                                0017 GR
- 18 A$barney_rx$892                                                0019 GR
- 18 A$barney_rx$893                                                001B GR
- 18 A$barney_rx$894                                                001C GR
- 18 A$barney_rx$895                                                001D GR
- 18 A$barney_rx$896                                                001E GR
- 18 A$barney_rx$897                                                001F GR
- 18 A$barney_rx$898                                                0020 GR
- 18 A$barney_rx$899                                                0021 GR
- 18 A$barney_rx$900                                                0022 GR
- 18 A$barney_rx$901                                                0024 GR
- 18 A$barney_rx$903                                                0027 GR
- 18 A$barney_rx$904                                                002A GR
- 18 A$barney_rx$905                                                002C GR
- 18 A$barney_rx$907                                                002F GR
- 18 A$barney_rx$908                                                0031 GR
- 18 A$barney_rx$912                                                0034 GR
- 18 A$barney_rx$913                                                0036 GR
- 18 A$barney_rx$914                                                0037 GR
- 18 A$barney_rx$915                                                0039 GR
- 18 A$barney_rx$916                                                003A GR
- 18 A$barney_rx$917                                                003B GR
- 18 A$barney_rx$918                                                003C GR
- 18 A$barney_rx$919                                                003E GR
- 18 A$barney_rx$920                                                003F GR
- 18 A$barney_rx$921                                                0041 GR
- 18 A$barney_rx$922                                                0043 GR
- 18 A$barney_rx$923                                                0044 GR
- 18 A$barney_rx$924                                                0045 GR
- 18 A$barney_rx$925                                                0048 GR
- 18 A$barney_rx$926                                                004A GR
- 18 A$barney_rx$929                                                004D GR
- 18 A$barney_rx$930                                                004F GR
- 18 A$barney_rx$931                                                0050 GR
- 18 A$barney_rx$932                                                0052 GR
- 18 A$barney_rx$933                                                0054 GR
- 18 A$barney_rx$934                                                0055 GR
- 18 A$barney_rx$935                                                0056 GR
- 18 A$barney_rx$936                                                0058 GR
- 18 A$barney_rx$937                                                005A GR
- 18 A$barney_rx$938                                                005B GR
- 18 A$barney_rx$939                                                005D GR
- 18 A$barney_rx$940                                                005F GR
- 18 A$barney_rx$941                                                0062 GR
- 18 A$barney_rx$942                                                0064 GR
- 18 A$barney_rx$943                                                0067 GR
- 18 A$barney_rx$944                                                0069 GR
- 18 A$barney_rx$945                                                006A GR
- 18 A$barney_rx$947                                                006B GR
- 18 A$barney_rx$948                                                006C GR
- 18 A$barney_rx$949                                                006F GR
- 18 A$barney_rx$950                                                0070 GR
- 18 A$barney_rx$952                                                0071 GR
- 18 A$barney_rx$953                                                0073 GR
- 18 A$barney_rx$954                                                0075 GR
- 18 A$barney_rx$955                                                0077 GR
- 18 A$barney_rx$956                                                0079 GR
- 18 A$barney_rx$957                                                007B GR
- 18 A$barney_rx$958                                                007D GR
- 18 A$barney_rx$959                                                007F GR
- 18 A$barney_rx$960                                                0081 GR
- 18 A$barney_rx$961                                                0083 GR
- 18 A$barney_rx$964                                                0085 GR
- 18 A$barney_rx$965                                                0087 GR
- 18 A$barney_rx$966                                                0088 GR
- 18 A$barney_rx$967                                                008A GR
- 18 A$barney_rx$968                                                008B GR
- 18 A$barney_rx$969                                                008C GR
- 18 A$barney_rx$970                                                008E GR
- 18 A$barney_rx$971                                                008F GR
- 18 A$barney_rx$972                                                0090 GR
- 18 A$barney_rx$973                                                0092 GR
- 18 A$barney_rx$976                                                0095 GR
- 18 A$barney_rx$977                                                0097 GR
- 18 A$barney_rx$978                                                0099 GR
- 18 A$barney_rx$979                                                009C GR
- 18 A$barney_rx$980                                                009F GR
- 18 A$barney_rx$981                                                00A2 GR
- 18 A$barney_rx$982                                                00A5 GR
- 18 A$barney_rx$985                                                00A7 GR
- 18 A$barney_rx$986                                                00A9 GR
- 18 A$barney_rx$987                                                00AA GR
- 18 A$barney_rx$988                                                00AC GR
- 18 A$barney_rx$989                                                00AE GR
- 18 A$barney_rx$990                                                00AF GR
- 18 A$barney_rx$991                                                00B0 GR
- 18 A$barney_rx$992                                                00B2 GR
- 18 A$barney_rx$993                                                00B4 GR
- 18 A$barney_rx$994                                                00B5 GR
- 18 A$barney_rx$995                                                00B6 GR
- 18 A$barney_rx$998                                                00B8 GR
- 18 A$barney_rx$999                                                00BA GR
+ 18 A$bambam_remote_rx$1000                                        00BB GR
+ 18 A$bambam_remote_rx$1001                                        00BD GR
+ 18 A$bambam_remote_rx$1002                                        00BF GR
+ 18 A$bambam_remote_rx$1003                                        00C0 GR
+ 18 A$bambam_remote_rx$1004                                        00C1 GR
+ 18 A$bambam_remote_rx$1005                                        00C3 GR
+ 18 A$bambam_remote_rx$1006                                        00C5 GR
+ 18 A$bambam_remote_rx$1007                                        00C6 GR
+ 18 A$bambam_remote_rx$1008                                        00C7 GR
+ 18 A$bambam_remote_rx$1009                                        00C9 GR
+ 18 A$bambam_remote_rx$1012                                        00CC GR
+ 18 A$bambam_remote_rx$1013                                        00CE GR
+ 18 A$bambam_remote_rx$1014                                        00CF GR
+ 18 A$bambam_remote_rx$1015                                        00D1 GR
+ 18 A$bambam_remote_rx$1016                                        00D3 GR
+ 18 A$bambam_remote_rx$1017                                        00D4 GR
+ 18 A$bambam_remote_rx$1018                                        00D5 GR
+ 18 A$bambam_remote_rx$1019                                        00D7 GR
+ 18 A$bambam_remote_rx$1020                                        00D9 GR
+ 18 A$bambam_remote_rx$1021                                        00DA GR
+ 18 A$bambam_remote_rx$1022                                        00DB GR
+ 18 A$bambam_remote_rx$1023                                        00DD GR
+ 18 A$bambam_remote_rx$1026                                        00E0 GR
+ 18 A$bambam_remote_rx$1027                                        00E2 GR
+ 18 A$bambam_remote_rx$1028                                        00E3 GR
+ 18 A$bambam_remote_rx$1029                                        00E5 GR
+ 18 A$bambam_remote_rx$1030                                        00E7 GR
+ 18 A$bambam_remote_rx$1031                                        00E8 GR
+ 18 A$bambam_remote_rx$1032                                        00E9 GR
+ 18 A$bambam_remote_rx$1033                                        00EB GR
+ 18 A$bambam_remote_rx$1034                                        00ED GR
+ 18 A$bambam_remote_rx$1035                                        00EE GR
+ 18 A$bambam_remote_rx$1036                                        00EF GR
+ 18 A$bambam_remote_rx$1039                                        00F1 GR
+ 18 A$bambam_remote_rx$1040                                        00F3 GR
+ 18 A$bambam_remote_rx$1041                                        00F5 GR
+ 18 A$bambam_remote_rx$1042                                        00F7 GR
+ 18 A$bambam_remote_rx$1043                                        00F9 GR
+ 18 A$bambam_remote_rx$1044                                        00FB GR
+ 18 A$bambam_remote_rx$1045                                        00FD GR
+ 18 A$bambam_remote_rx$1046                                        00FF GR
+ 18 A$bambam_remote_rx$1047                                        0101 GR
+ 18 A$bambam_remote_rx$1048                                        0103 GR
+ 18 A$bambam_remote_rx$1049                                        0105 GR
+ 18 A$bambam_remote_rx$1050                                        0107 GR
+ 18 A$bambam_remote_rx$1051                                        0109 GR
+ 18 A$bambam_remote_rx$1052                                        010B GR
+ 18 A$bambam_remote_rx$1053                                        010D GR
+ 18 A$bambam_remote_rx$1054                                        010F GR
+ 18 A$bambam_remote_rx$1055                                        0111 GR
+ 18 A$bambam_remote_rx$1056                                        0113 GR
+ 18 A$bambam_remote_rx$1057                                        0115 GR
+ 18 A$bambam_remote_rx$1058                                        0117 GR
+ 18 A$bambam_remote_rx$1059                                        0119 GR
+ 18 A$bambam_remote_rx$1060                                        011B GR
+ 18 A$bambam_remote_rx$1061                                        011D GR
+ 18 A$bambam_remote_rx$1062                                        011F GR
+ 18 A$bambam_remote_rx$1063                                        0121 GR
+ 18 A$bambam_remote_rx$1064                                        0124 GR
+ 18 A$bambam_remote_rx$1065                                        0126 GR
+ 18 A$bambam_remote_rx$1066                                        0128 GR
+ 18 A$bambam_remote_rx$1067                                        012A GR
+ 18 A$bambam_remote_rx$1068                                        012C GR
+ 18 A$bambam_remote_rx$1071                                        012E GR
+ 18 A$bambam_remote_rx$1072                                        0130 GR
+ 18 A$bambam_remote_rx$1073                                        0132 GR
+ 18 A$bambam_remote_rx$1074                                        0133 GR
+ 18 A$bambam_remote_rx$1075                                        0134 GR
+ 18 A$bambam_remote_rx$1076                                        0137 GR
+ 18 A$bambam_remote_rx$1077                                        0139 GR
+ 18 A$bambam_remote_rx$1079                                        013B GR
+ 18 A$bambam_remote_rx$1081                                        013D GR
+ 18 A$bambam_remote_rx$1082                                        013F GR
+ 18 A$bambam_remote_rx$1085                                        0142 GR
+ 18 A$bambam_remote_rx$1086                                        0144 GR
+ 18 A$bambam_remote_rx$1087                                        0145 GR
+ 18 A$bambam_remote_rx$1088                                        0147 GR
+ 18 A$bambam_remote_rx$1089                                        0148 GR
+ 18 A$bambam_remote_rx$1090                                        0149 GR
+ 18 A$bambam_remote_rx$1091                                        014A GR
+ 18 A$bambam_remote_rx$1092                                        014C GR
+ 18 A$bambam_remote_rx$1093                                        014D GR
+ 18 A$bambam_remote_rx$1095                                        014F GR
+ 18 A$bambam_remote_rx$1097                                        0152 GR
+ 18 A$bambam_remote_rx$1100                                        0154 GR
+ 18 A$bambam_remote_rx$1101                                        0155 GR
+ 18 A$bambam_remote_rx$1102                                        0156 GR
+ 18 A$bambam_remote_rx$1103                                        0157 GR
+ 18 A$bambam_remote_rx$1104                                        0159 GR
+ 18 A$bambam_remote_rx$1105                                        015A GR
+ 18 A$bambam_remote_rx$1106                                        015B GR
+ 18 A$bambam_remote_rx$1107                                        015D GR
+ 18 A$bambam_remote_rx$1108                                        015E GR
+ 18 A$bambam_remote_rx$1109                                        015F GR
+ 18 A$bambam_remote_rx$1110                                        0160 GR
+ 18 A$bambam_remote_rx$1111                                        0161 GR
+ 18 A$bambam_remote_rx$1112                                        0162 GR
+ 18 A$bambam_remote_rx$1113                                        0164 GR
+ 18 A$bambam_remote_rx$1114                                        0166 GR
+ 18 A$bambam_remote_rx$1115                                        0168 GR
+ 18 A$bambam_remote_rx$1116                                        016A GR
+ 18 A$bambam_remote_rx$1117                                        016C GR
+ 18 A$bambam_remote_rx$1118                                        016E GR
+ 18 A$bambam_remote_rx$1119                                        0170 GR
+ 18 A$bambam_remote_rx$1120                                        0172 GR
+ 18 A$bambam_remote_rx$1121                                        0174 GR
+ 18 A$bambam_remote_rx$1122                                        0176 GR
+ 18 A$bambam_remote_rx$1123                                        0178 GR
+ 18 A$bambam_remote_rx$1124                                        017B GR
+ 18 A$bambam_remote_rx$1125                                        017D GR
+ 18 A$bambam_remote_rx$1126                                        017F GR
+ 18 A$bambam_remote_rx$1127                                        0181 GR
+ 18 A$bambam_remote_rx$1128                                        0183 GR
+ 18 A$bambam_remote_rx$1129                                        0185 GR
+ 18 A$bambam_remote_rx$1132                                        0187 GR
+ 18 A$bambam_remote_rx$1133                                        0188 GR
+ 18 A$bambam_remote_rx$1137                                        018A GR
+ 18 A$bambam_remote_rx$1138                                        018D GR
+ 18 A$bambam_remote_rx$1141                                        0190 GR
+ 18 A$bambam_remote_rx$1142                                        0193 GR
+ 18 A$bambam_remote_rx$1145                                        0196 GR
+ 18 A$bambam_remote_rx$1149                                        0199 GR
+ 18 A$bambam_remote_rx$1162                                        019A GR
+ 18 A$bambam_remote_rx$1163                                        019D GR
+ 18 A$bambam_remote_rx$1164                                        01A0 GR
+ 18 A$bambam_remote_rx$1165                                        01A1 GR
+ 18 A$bambam_remote_rx$1168                                        01A4 GR
+ 18 A$bambam_remote_rx$1169                                        01A7 GR
+ 18 A$bambam_remote_rx$1172                                        01AA GR
+ 18 A$bambam_remote_rx$1173                                        01AD GR
+ 18 A$bambam_remote_rx$1176                                        01B0 GR
+ 18 A$bambam_remote_rx$1189                                        01B1 GR
+ 18 A$bambam_remote_rx$1192                                        01B4 GR
+ 18 A$bambam_remote_rx$1195                                        01B7 GR
+ 18 A$bambam_remote_rx$1198                                        01B9 GR
+ 18 A$bambam_remote_rx$1201                                        01BC GR
+ 18 A$bambam_remote_rx$1207                                        01BF GR
+ 18 A$bambam_remote_rx$1210                                        01C2 GR
+ 18 A$bambam_remote_rx$1213                                        01C5 GR
+ 18 A$bambam_remote_rx$1216                                        01C8 GR
+ 18 A$bambam_remote_rx$1217                                        01CB GR
+ 18 A$bambam_remote_rx$1220                                        01CD GR
+  F A$bambam_remote_rx$759                                         0000 GR
+  F A$bambam_remote_rx$760                                         0003 GR
+  F A$bambam_remote_rx$762                                         000B GR
+  F A$bambam_remote_rx$764                                         0013 GR
+  F A$bambam_remote_rx$766                                         001B GR
+  F A$bambam_remote_rx$768                                         0023 GR
+  F A$bambam_remote_rx$770                                         002B GR
+  F A$bambam_remote_rx$772                                         0033 GR
+  F A$bambam_remote_rx$774                                         003B GR
+  F A$bambam_remote_rx$776                                         0043 GR
+  F A$bambam_remote_rx$778                                         004B GR
+  F A$bambam_remote_rx$780                                         0053 GR
+  F A$bambam_remote_rx$782                                         005B GR
+  F A$bambam_remote_rx$784                                         0063 GR
+  F A$bambam_remote_rx$786                                         006B GR
+  F A$bambam_remote_rx$788                                         0073 GR
+  F A$bambam_remote_rx$790                                         007B GR
+  F A$bambam_remote_rx$792                                         0083 GR
+ 17 A$bambam_remote_rx$807                                         0000 GR
+  F A$bambam_remote_rx$814                                         0086 GR
+  F A$bambam_remote_rx$816                                         0089 GR
+ 18 A$bambam_remote_rx$841                                         0000 GR
+ 18 A$bambam_remote_rx$844                                         0003 GR
+ 18 A$bambam_remote_rx$847                                         0006 GR
+ 18 A$bambam_remote_rx$848                                         0008 GR
+ 18 A$bambam_remote_rx$849                                         000B GR
+ 18 A$bambam_remote_rx$852                                         000D GR
+ 18 A$bambam_remote_rx$865                                         000E GR
+ 18 A$bambam_remote_rx$868                                         0011 GR
+ 18 A$bambam_remote_rx$889                                         0012 GR
+ 18 A$bambam_remote_rx$890                                         0015 GR
+ 18 A$bambam_remote_rx$891                                         0017 GR
+ 18 A$bambam_remote_rx$892                                         0019 GR
+ 18 A$bambam_remote_rx$893                                         001B GR
+ 18 A$bambam_remote_rx$894                                         001C GR
+ 18 A$bambam_remote_rx$895                                         001D GR
+ 18 A$bambam_remote_rx$896                                         001E GR
+ 18 A$bambam_remote_rx$897                                         001F GR
+ 18 A$bambam_remote_rx$898                                         0020 GR
+ 18 A$bambam_remote_rx$899                                         0021 GR
+ 18 A$bambam_remote_rx$900                                         0022 GR
+ 18 A$bambam_remote_rx$901                                         0024 GR
+ 18 A$bambam_remote_rx$903                                         0027 GR
+ 18 A$bambam_remote_rx$904                                         002A GR
+ 18 A$bambam_remote_rx$905                                         002C GR
+ 18 A$bambam_remote_rx$907                                         002F GR
+ 18 A$bambam_remote_rx$908                                         0031 GR
+ 18 A$bambam_remote_rx$912                                         0034 GR
+ 18 A$bambam_remote_rx$913                                         0036 GR
+ 18 A$bambam_remote_rx$914                                         0037 GR
+ 18 A$bambam_remote_rx$915                                         0039 GR
+ 18 A$bambam_remote_rx$916                                         003A GR
+ 18 A$bambam_remote_rx$917                                         003B GR
+ 18 A$bambam_remote_rx$918                                         003C GR
+ 18 A$bambam_remote_rx$919                                         003E GR
+ 18 A$bambam_remote_rx$920                                         003F GR
+ 18 A$bambam_remote_rx$921                                         0041 GR
+ 18 A$bambam_remote_rx$922                                         0043 GR
+ 18 A$bambam_remote_rx$923                                         0044 GR
+ 18 A$bambam_remote_rx$924                                         0045 GR
+ 18 A$bambam_remote_rx$925                                         0048 GR
+ 18 A$bambam_remote_rx$926                                         004A GR
+ 18 A$bambam_remote_rx$929                                         004D GR
+ 18 A$bambam_remote_rx$930                                         004F GR
+ 18 A$bambam_remote_rx$931                                         0050 GR
+ 18 A$bambam_remote_rx$932                                         0052 GR
+ 18 A$bambam_remote_rx$933                                         0054 GR
+ 18 A$bambam_remote_rx$934                                         0055 GR
+ 18 A$bambam_remote_rx$935                                         0056 GR
+ 18 A$bambam_remote_rx$936                                         0058 GR
+ 18 A$bambam_remote_rx$937                                         005A GR
+ 18 A$bambam_remote_rx$938                                         005B GR
+ 18 A$bambam_remote_rx$939                                         005D GR
+ 18 A$bambam_remote_rx$940                                         005F GR
+ 18 A$bambam_remote_rx$941                                         0062 GR
+ 18 A$bambam_remote_rx$942                                         0064 GR
+ 18 A$bambam_remote_rx$943                                         0067 GR
+ 18 A$bambam_remote_rx$944                                         0069 GR
+ 18 A$bambam_remote_rx$945                                         006A GR
+ 18 A$bambam_remote_rx$947                                         006B GR
+ 18 A$bambam_remote_rx$948                                         006C GR
+ 18 A$bambam_remote_rx$949                                         006F GR
+ 18 A$bambam_remote_rx$950                                         0070 GR
+ 18 A$bambam_remote_rx$952                                         0071 GR
+ 18 A$bambam_remote_rx$953                                         0073 GR
+ 18 A$bambam_remote_rx$954                                         0075 GR
+ 18 A$bambam_remote_rx$955                                         0077 GR
+ 18 A$bambam_remote_rx$956                                         0079 GR
+ 18 A$bambam_remote_rx$957                                         007B GR
+ 18 A$bambam_remote_rx$958                                         007D GR
+ 18 A$bambam_remote_rx$959                                         007F GR
+ 18 A$bambam_remote_rx$960                                         0081 GR
+ 18 A$bambam_remote_rx$961                                         0083 GR
+ 18 A$bambam_remote_rx$964                                         0085 GR
+ 18 A$bambam_remote_rx$965                                         0087 GR
+ 18 A$bambam_remote_rx$966                                         0088 GR
+ 18 A$bambam_remote_rx$967                                         008A GR
+ 18 A$bambam_remote_rx$968                                         008B GR
+ 18 A$bambam_remote_rx$969                                         008C GR
+ 18 A$bambam_remote_rx$970                                         008E GR
+ 18 A$bambam_remote_rx$971                                         008F GR
+ 18 A$bambam_remote_rx$972                                         0090 GR
+ 18 A$bambam_remote_rx$973                                         0092 GR
+ 18 A$bambam_remote_rx$976                                         0095 GR
+ 18 A$bambam_remote_rx$977                                         0097 GR
+ 18 A$bambam_remote_rx$978                                         0099 GR
+ 18 A$bambam_remote_rx$979                                         009C GR
+ 18 A$bambam_remote_rx$980                                         009F GR
+ 18 A$bambam_remote_rx$981                                         00A2 GR
+ 18 A$bambam_remote_rx$982                                         00A5 GR
+ 18 A$bambam_remote_rx$985                                         00A7 GR
+ 18 A$bambam_remote_rx$986                                         00A9 GR
+ 18 A$bambam_remote_rx$987                                         00AA GR
+ 18 A$bambam_remote_rx$988                                         00AC GR
+ 18 A$bambam_remote_rx$989                                         00AE GR
+ 18 A$bambam_remote_rx$990                                         00AF GR
+ 18 A$bambam_remote_rx$991                                         00B0 GR
+ 18 A$bambam_remote_rx$992                                         00B2 GR
+ 18 A$bambam_remote_rx$993                                         00B4 GR
+ 18 A$bambam_remote_rx$994                                         00B5 GR
+ 18 A$bambam_remote_rx$995                                         00B6 GR
+ 18 A$bambam_remote_rx$998                                         00B8 GR
+ 18 A$bambam_remote_rx$999                                         00BA GR
     A.0                                                            00E0 
     A.1                                                            00E1 
     A.2                                                            00E2 
@@ -296,50 +296,50 @@ Symbol Table
     B.5                                                            00F5 
     B.6                                                            00F6 
     B.7                                                            00F7 
- 18 C$barney_rx.c$100$1$1                                       =  01A4 GR
- 18 C$barney_rx.c$101$1$1                                       =  01AA GR
- 18 C$barney_rx.c$102$1$1                                       =  01B0 GR
- 18 C$barney_rx.c$104$1$1                                       =  01B1 GR
- 18 C$barney_rx.c$106$1$1                                       =  01B1 GR
- 18 C$barney_rx.c$108$1$1                                       =  01B4 GR
- 18 C$barney_rx.c$109$1$1                                       =  01B7 GR
- 18 C$barney_rx.c$111$1$1                                       =  01B9 GR
- 18 C$barney_rx.c$112$1$1                                       =  01BC GR
- 18 C$barney_rx.c$114$1$1                                       =  01BF GR
- 18 C$barney_rx.c$116$2$2                                       =  01BF GR
- 18 C$barney_rx.c$117$2$2                                       =  01C2 GR
- 18 C$barney_rx.c$118$2$2                                       =  01C5 GR
- 18 C$barney_rx.c$119$2$2                                       =  01C8 GR
- 18 C$barney_rx.c$121$1$1                                       =  01CD GR
- 18 C$barney_rx.c$42$0$0                                        =  0000 GR
- 18 C$barney_rx.c$44$2$2                                        =  0000 GR
- 18 C$barney_rx.c$45$2$3                                        =  0003 GR
- 18 C$barney_rx.c$46$2$4                                        =  0006 GR
- 18 C$barney_rx.c$47$2$4                                        =  000D GR
- 18 C$barney_rx.c$49$2$4                                        =  000E GR
- 18 C$barney_rx.c$51$1$1                                        =  000E GR
- 18 C$barney_rx.c$52$1$1                                        =  0011 GR
- 18 C$barney_rx.c$54$1$1                                        =  0012 GR
- 18 C$barney_rx.c$60$1$1                                        =  0012 GR
- 18 C$barney_rx.c$68$2$2                                        =  00F1 GR
- 18 C$barney_rx.c$69$2$2                                        =  00E0 GR
- 18 C$barney_rx.c$70$2$2                                        =  00CC GR
- 18 C$barney_rx.c$71$2$2                                        =  00B8 GR
- 18 C$barney_rx.c$72$2$2                                        =  00A7 GR
- 18 C$barney_rx.c$73$2$2                                        =  0095 GR
- 18 C$barney_rx.c$74$2$2                                        =  0085 GR
- 18 C$barney_rx.c$75$2$2                                        =  004D GR
- 18 C$barney_rx.c$76$2$2                                        =  0034 GR
- 18 C$barney_rx.c$81$2$2                                        =  012E GR
- 18 C$barney_rx.c$84$2$2                                        =  0187 GR
- 18 C$barney_rx.c$84$3$3                                        =  0142 GR
- 18 C$barney_rx.c$86$3$3                                        =  0154 GR
- 18 C$barney_rx.c$90$2$2                                        =  018A GR
- 18 C$barney_rx.c$91$2$2                                        =  0190 GR
- 18 C$barney_rx.c$93$2$2                                        =  0196 GR
- 18 C$barney_rx.c$95$2$1                                        =  0199 GR
- 18 C$barney_rx.c$97$2$1                                        =  019A GR
- 18 C$barney_rx.c$99$1$1                                        =  019A GR
+ 18 C$bambam_remote_rx.c$100$1$1                                =  01A4 GR
+ 18 C$bambam_remote_rx.c$101$1$1                                =  01AA GR
+ 18 C$bambam_remote_rx.c$102$1$1                                =  01B0 GR
+ 18 C$bambam_remote_rx.c$104$1$1                                =  01B1 GR
+ 18 C$bambam_remote_rx.c$106$1$1                                =  01B1 GR
+ 18 C$bambam_remote_rx.c$108$1$1                                =  01B4 GR
+ 18 C$bambam_remote_rx.c$109$1$1                                =  01B7 GR
+ 18 C$bambam_remote_rx.c$111$1$1                                =  01B9 GR
+ 18 C$bambam_remote_rx.c$112$1$1                                =  01BC GR
+ 18 C$bambam_remote_rx.c$114$1$1                                =  01BF GR
+ 18 C$bambam_remote_rx.c$116$2$2                                =  01BF GR
+ 18 C$bambam_remote_rx.c$117$2$2                                =  01C2 GR
+ 18 C$bambam_remote_rx.c$118$2$2                                =  01C5 GR
+ 18 C$bambam_remote_rx.c$119$2$2                                =  01C8 GR
+ 18 C$bambam_remote_rx.c$121$1$1                                =  01CD GR
+ 18 C$bambam_remote_rx.c$42$0$0                                 =  0000 GR
+ 18 C$bambam_remote_rx.c$44$2$2                                 =  0000 GR
+ 18 C$bambam_remote_rx.c$45$2$3                                 =  0003 GR
+ 18 C$bambam_remote_rx.c$46$2$4                                 =  0006 GR
+ 18 C$bambam_remote_rx.c$47$2$4                                 =  000D GR
+ 18 C$bambam_remote_rx.c$49$2$4                                 =  000E GR
+ 18 C$bambam_remote_rx.c$51$1$1                                 =  000E GR
+ 18 C$bambam_remote_rx.c$52$1$1                                 =  0011 GR
+ 18 C$bambam_remote_rx.c$54$1$1                                 =  0012 GR
+ 18 C$bambam_remote_rx.c$60$1$1                                 =  0012 GR
+ 18 C$bambam_remote_rx.c$68$2$2                                 =  00F1 GR
+ 18 C$bambam_remote_rx.c$69$2$2                                 =  00E0 GR
+ 18 C$bambam_remote_rx.c$70$2$2                                 =  00CC GR
+ 18 C$bambam_remote_rx.c$71$2$2                                 =  00B8 GR
+ 18 C$bambam_remote_rx.c$72$2$2                                 =  00A7 GR
+ 18 C$bambam_remote_rx.c$73$2$2                                 =  0095 GR
+ 18 C$bambam_remote_rx.c$74$2$2                                 =  0085 GR
+ 18 C$bambam_remote_rx.c$75$2$2                                 =  004D GR
+ 18 C$bambam_remote_rx.c$76$2$2                                 =  0034 GR
+ 18 C$bambam_remote_rx.c$81$2$2                                 =  012E GR
+ 18 C$bambam_remote_rx.c$84$2$2                                 =  0187 GR
+ 18 C$bambam_remote_rx.c$84$3$3                                 =  0142 GR
+ 18 C$bambam_remote_rx.c$86$3$3                                 =  0154 GR
+ 18 C$bambam_remote_rx.c$90$2$2                                 =  018A GR
+ 18 C$bambam_remote_rx.c$91$2$2                                 =  0190 GR
+ 18 C$bambam_remote_rx.c$93$2$2                                 =  0196 GR
+ 18 C$bambam_remote_rx.c$95$2$1                                 =  0199 GR
+ 18 C$bambam_remote_rx.c$97$2$1                                 =  019A GR
+ 18 C$bambam_remote_rx.c$99$1$1                                 =  019A GR
     CPRL2                                                          00C8 
     CT2                                                            00C9 
     CY                                                             00D7 
@@ -355,323 +355,323 @@ Symbol Table
     EXEN2                                                          00CB 
     EXF2                                                           00CE 
     F0                                                             00D5 
-    Fbarney_rx$AC$0$0                                           =  00D6 G
-    Fbarney_rx$ACC$0$0                                          =  00E0 G
-    Fbarney_rx$ACC_0$0$0                                        =  00E0 G
-    Fbarney_rx$ACC_1$0$0                                        =  00E1 G
-    Fbarney_rx$ACC_2$0$0                                        =  00E2 G
-    Fbarney_rx$ACC_3$0$0                                        =  00E3 G
-    Fbarney_rx$ACC_4$0$0                                        =  00E4 G
-    Fbarney_rx$ACC_5$0$0                                        =  00E5 G
-    Fbarney_rx$ACC_6$0$0                                        =  00E6 G
-    Fbarney_rx$ACC_7$0$0                                        =  00E7 G
-    Fbarney_rx$ADC$0$0                                          =  FFFFBBBA G
-    Fbarney_rx$ADCCFG$0$0                                       =  00F2 G
-    Fbarney_rx$ADCCON1$0$0                                      =  00B4 G
-    Fbarney_rx$ADCCON2$0$0                                      =  00B5 G
-    Fbarney_rx$ADCCON3$0$0                                      =  00B6 G
-    Fbarney_rx$ADCH$0$0                                         =  00BB G
-    Fbarney_rx$ADCIE$0$0                                        =  00A9 G
-    Fbarney_rx$ADCIF$0$0                                        =  008D G
-    Fbarney_rx$ADCL$0$0                                         =  00BA G
-    Fbarney_rx$ADDR$0$0                                         =  DF05 G
-    Fbarney_rx$AGCCTRL0$0$0                                     =  DF19 G
-    Fbarney_rx$AGCCTRL1$0$0                                     =  DF18 G
-    Fbarney_rx$AGCCTRL2$0$0                                     =  DF17 G
-    Fbarney_rx$B$0$0                                            =  00F0 G
-    Fbarney_rx$BSCFG$0$0                                        =  DF16 G
-    Fbarney_rx$B_0$0$0                                          =  00F0 G
-    Fbarney_rx$B_1$0$0                                          =  00F1 G
-    Fbarney_rx$B_2$0$0                                          =  00F2 G
-    Fbarney_rx$B_3$0$0                                          =  00F3 G
-    Fbarney_rx$B_4$0$0                                          =  00F4 G
-    Fbarney_rx$B_5$0$0                                          =  00F5 G
-    Fbarney_rx$B_6$0$0                                          =  00F6 G
-    Fbarney_rx$B_7$0$0                                          =  00F7 G
-    Fbarney_rx$CHANNR$0$0                                       =  DF06 G
-    Fbarney_rx$CLKCON$0$0                                       =  00C6 G
-    Fbarney_rx$CY$0$0                                           =  00D7 G
-    Fbarney_rx$DEVIATN$0$0                                      =  DF11 G
-    Fbarney_rx$DMA0CFG$0$0                                      =  FFFFD5D4 G
-    Fbarney_rx$DMA0CFGH$0$0                                     =  00D5 G
-    Fbarney_rx$DMA0CFGL$0$0                                     =  00D4 G
-    Fbarney_rx$DMA1CFG$0$0                                      =  FFFFD3D2 G
-    Fbarney_rx$DMA1CFGH$0$0                                     =  00D3 G
-    Fbarney_rx$DMA1CFGL$0$0                                     =  00D2 G
-    Fbarney_rx$DMAARM$0$0                                       =  00D6 G
-    Fbarney_rx$DMAIE$0$0                                        =  00B8 G
-    Fbarney_rx$DMAIF$0$0                                        =  00C0 G
-    Fbarney_rx$DMAIRQ$0$0                                       =  00D1 G
-    Fbarney_rx$DMAREQ$0$0                                       =  00D7 G
-    Fbarney_rx$DPH0$0$0                                         =  0083 G
-    Fbarney_rx$DPH1$0$0                                         =  0085 G
-    Fbarney_rx$DPL0$0$0                                         =  0082 G
-    Fbarney_rx$DPL1$0$0                                         =  0084 G
-    Fbarney_rx$DPS$0$0                                          =  0092 G
-    Fbarney_rx$EA$0$0                                           =  00AF G
-    Fbarney_rx$ENCCS$0$0                                        =  00B3 G
-    Fbarney_rx$ENCDI$0$0                                        =  00B1 G
-    Fbarney_rx$ENCDO$0$0                                        =  00B2 G
-    Fbarney_rx$ENCIE$0$0                                        =  00AC G
-    Fbarney_rx$ENCIF_0$0$0                                      =  0098 G
-    Fbarney_rx$ENCIF_1$0$0                                      =  0099 G
-    Fbarney_rx$ENDIAN$0$0                                       =  0095 G
-    Fbarney_rx$F0$0$0                                           =  00D5 G
-    Fbarney_rx$F1$0$0                                           =  00D1 G
-    Fbarney_rx$FADDR$0$0                                        =  FFFFADAC G
-    Fbarney_rx$FADDRH$0$0                                       =  00AD G
-    Fbarney_rx$FADDRL$0$0                                       =  00AC G
-    Fbarney_rx$FCTL$0$0                                         =  00AE G
-    Fbarney_rx$FOCCFG$0$0                                       =  DF15 G
-    Fbarney_rx$FREND0$0$0                                       =  DF1B G
-    Fbarney_rx$FREND1$0$0                                       =  DF1A G
-    Fbarney_rx$FREQ0$0$0                                        =  DF0B G
-    Fbarney_rx$FREQ1$0$0                                        =  DF0A G
-    Fbarney_rx$FREQ2$0$0                                        =  DF09 G
-    Fbarney_rx$FREQEST$0$0                                      =  DF38 G
-    Fbarney_rx$FSCAL0$0$0                                       =  DF1F G
-    Fbarney_rx$FSCAL1$0$0                                       =  DF1E G
-    Fbarney_rx$FSCAL2$0$0                                       =  DF1D G
-    Fbarney_rx$FSCAL3$0$0                                       =  DF1C G
-    Fbarney_rx$FSCTRL0$0$0                                      =  DF08 G
-    Fbarney_rx$FSCTRL1$0$0                                      =  DF07 G
-    Fbarney_rx$FWDATA$0$0                                       =  00AF G
-    Fbarney_rx$FWT$0$0                                          =  00AB G
-    Fbarney_rx$I2SCFG0$0$0                                      =  DF40 G
-    Fbarney_rx$I2SCFG1$0$0                                      =  DF41 G
-    Fbarney_rx$I2SCLKF0$0$0                                     =  DF46 G
-    Fbarney_rx$I2SCLKF1$0$0                                     =  DF47 G
-    Fbarney_rx$I2SCLKF2$0$0                                     =  DF48 G
-    Fbarney_rx$I2SDATH$0$0                                      =  DF43 G
-    Fbarney_rx$I2SDATL$0$0                                      =  DF42 G
-    Fbarney_rx$I2SSTAT$0$0                                      =  DF45 G
-    Fbarney_rx$I2SWCNT$0$0                                      =  DF44 G
-    Fbarney_rx$IEN0$0$0                                         =  00A8 G
-    Fbarney_rx$IEN1$0$0                                         =  00B8 G
-    Fbarney_rx$IEN2$0$0                                         =  009A G
-    Fbarney_rx$IOCFG0$0$0                                       =  DF31 G
-    Fbarney_rx$IOCFG1$0$0                                       =  DF30 G
-    Fbarney_rx$IOCFG2$0$0                                       =  DF2F G
-    Fbarney_rx$IP0$0$0                                          =  00A9 G
-    Fbarney_rx$IP1$0$0                                          =  00B9 G
-    Fbarney_rx$IRCON$0$0                                        =  00C0 G
-    Fbarney_rx$IRCON2$0$0                                       =  00E8 G
-    Fbarney_rx$LQI$0$0                                          =  DF39 G
-    Fbarney_rx$MARCSTATE$0$0                                    =  DF3B G
-    Fbarney_rx$MCSM0$0$0                                        =  DF14 G
-    Fbarney_rx$MCSM1$0$0                                        =  DF13 G
-    Fbarney_rx$MCSM2$0$0                                        =  DF12 G
-    Fbarney_rx$MDMCFG0$0$0                                      =  DF10 G
-    Fbarney_rx$MDMCFG1$0$0                                      =  DF0F G
-    Fbarney_rx$MDMCFG2$0$0                                      =  DF0E G
-    Fbarney_rx$MDMCFG3$0$0                                      =  DF0D G
-    Fbarney_rx$MDMCFG4$0$0                                      =  DF0C G
-    Fbarney_rx$MEMCTR$0$0                                       =  00C7 G
-    Fbarney_rx$MPAGE$0$0                                        =  0093 G
-    Fbarney_rx$OV$0$0                                           =  00D2 G
-    Fbarney_rx$OVFIM$0$0                                        =  00DE G
-    Fbarney_rx$P$0$0                                            =  00D0 G
-    Fbarney_rx$P0$0$0                                           =  0080 G
-    Fbarney_rx$P0DIR$0$0                                        =  00FD G
-    Fbarney_rx$P0IE$0$0                                         =  00BD G
-    Fbarney_rx$P0IF$0$0                                         =  00C5 G
-    Fbarney_rx$P0IFG$0$0                                        =  0089 G
-    Fbarney_rx$P0INP$0$0                                        =  008F G
-    Fbarney_rx$P0SEL$0$0                                        =  00F3 G
-    Fbarney_rx$P0_0$0$0                                         =  0080 G
-    Fbarney_rx$P0_1$0$0                                         =  0081 G
-    Fbarney_rx$P0_2$0$0                                         =  0082 G
-    Fbarney_rx$P0_3$0$0                                         =  0083 G
-    Fbarney_rx$P0_4$0$0                                         =  0084 G
-    Fbarney_rx$P0_5$0$0                                         =  0085 G
-    Fbarney_rx$P0_6$0$0                                         =  0086 G
-    Fbarney_rx$P0_7$0$0                                         =  0087 G
-    Fbarney_rx$P1$0$0                                           =  0090 G
-    Fbarney_rx$P1DIR$0$0                                        =  00FE G
-    Fbarney_rx$P1IEN$0$0                                        =  008D G
-    Fbarney_rx$P1IF$0$0                                         =  00EB G
-    Fbarney_rx$P1IFG$0$0                                        =  008A G
-    Fbarney_rx$P1INP$0$0                                        =  00F6 G
-    Fbarney_rx$P1SEL$0$0                                        =  00F4 G
-    Fbarney_rx$P1_0$0$0                                         =  0090 G
-    Fbarney_rx$P1_1$0$0                                         =  0091 G
-    Fbarney_rx$P1_2$0$0                                         =  0092 G
-    Fbarney_rx$P1_3$0$0                                         =  0093 G
-    Fbarney_rx$P1_4$0$0                                         =  0094 G
-    Fbarney_rx$P1_5$0$0                                         =  0095 G
-    Fbarney_rx$P1_6$0$0                                         =  0096 G
-    Fbarney_rx$P1_7$0$0                                         =  0097 G
-    Fbarney_rx$P2$0$0                                           =  00A0 G
-    Fbarney_rx$P2DIR$0$0                                        =  00FF G
-    Fbarney_rx$P2IF$0$0                                         =  00E8 G
-    Fbarney_rx$P2IFG$0$0                                        =  008B G
-    Fbarney_rx$P2INP$0$0                                        =  00F7 G
-    Fbarney_rx$P2SEL$0$0                                        =  00F5 G
-    Fbarney_rx$P2_0$0$0                                         =  00A0 G
-    Fbarney_rx$P2_1$0$0                                         =  00A1 G
-    Fbarney_rx$P2_2$0$0                                         =  00A2 G
-    Fbarney_rx$P2_3$0$0                                         =  00A3 G
-    Fbarney_rx$P2_4$0$0                                         =  00A4 G
-    Fbarney_rx$P2_5$0$0                                         =  00A5 G
-    Fbarney_rx$P2_6$0$0                                         =  00A6 G
-    Fbarney_rx$P2_7$0$0                                         =  00A7 G
-    Fbarney_rx$PARTNUM$0$0                                      =  DF36 G
-    Fbarney_rx$PA_TABLE0$0$0                                    =  DF2E G
-    Fbarney_rx$PCON$0$0                                         =  0087 G
-    Fbarney_rx$PERCFG$0$0                                       =  00F1 G
-    Fbarney_rx$PICTL$0$0                                        =  008C G
-    Fbarney_rx$PKTCTRL0$0$0                                     =  DF04 G
-    Fbarney_rx$PKTCTRL1$0$0                                     =  DF03 G
-    Fbarney_rx$PKTLEN$0$0                                       =  DF02 G
-    Fbarney_rx$PKTSTATUS$0$0                                    =  DF3C G
-    Fbarney_rx$PSW$0$0                                          =  00D0 G
-    Fbarney_rx$RFD$0$0                                          =  00D9 G
-    Fbarney_rx$RFIF$0$0                                         =  00E9 G
-    Fbarney_rx$RFIM$0$0                                         =  0091 G
-    Fbarney_rx$RFST$0$0                                         =  00E1 G
-    Fbarney_rx$RFTXRXIE$0$0                                     =  00A8 G
-    Fbarney_rx$RFTXRXIF$0$0                                     =  0089 G
-    Fbarney_rx$RNDH$0$0                                         =  00BD G
-    Fbarney_rx$RNDL$0$0                                         =  00BC G
-    Fbarney_rx$RS0$0$0                                          =  00D3 G
-    Fbarney_rx$RS1$0$0                                          =  00D4 G
-    Fbarney_rx$RSSI$0$0                                         =  DF3A G
-    Fbarney_rx$S0CON$0$0                                        =  0098 G
-    Fbarney_rx$S1CON$0$0                                        =  009B G
-    Fbarney_rx$SLEEP$0$0                                        =  00BE G
-    Fbarney_rx$SP$0$0                                           =  0081 G
-    Fbarney_rx$STIE$0$0                                         =  00AD G
-    Fbarney_rx$STIF$0$0                                         =  00C7 G
-    Fbarney_rx$SYNC0$0$0                                        =  DF01 G
-    Fbarney_rx$SYNC1$0$0                                        =  DF00 G
-    Fbarney_rx$T1CC0$0$0                                        =  FFFFDBDA G
-    Fbarney_rx$T1CC0H$0$0                                       =  00DB G
-    Fbarney_rx$T1CC0L$0$0                                       =  00DA G
-    Fbarney_rx$T1CC1$0$0                                        =  FFFFDDDC G
-    Fbarney_rx$T1CC1H$0$0                                       =  00DD G
-    Fbarney_rx$T1CC1L$0$0                                       =  00DC G
-    Fbarney_rx$T1CC2$0$0                                        =  FFFFDFDE G
-    Fbarney_rx$T1CC2H$0$0                                       =  00DF G
-    Fbarney_rx$T1CC2L$0$0                                       =  00DE G
-    Fbarney_rx$T1CCTL0$0$0                                      =  00E5 G
-    Fbarney_rx$T1CCTL1$0$0                                      =  00E6 G
-    Fbarney_rx$T1CCTL2$0$0                                      =  00E7 G
-    Fbarney_rx$T1CNTH$0$0                                       =  00E3 G
-    Fbarney_rx$T1CNTL$0$0                                       =  00E2 G
-    Fbarney_rx$T1CTL$0$0                                        =  00E4 G
-    Fbarney_rx$T1IE$0$0                                         =  00B9 G
-    Fbarney_rx$T1IF$0$0                                         =  00C1 G
-    Fbarney_rx$T2CT$0$0                                         =  009C G
-    Fbarney_rx$T2CTL$0$0                                        =  009E G
-    Fbarney_rx$T2IE$0$0                                         =  00BA G
-    Fbarney_rx$T2IF$0$0                                         =  00C2 G
-    Fbarney_rx$T2PR$0$0                                         =  009D G
-    Fbarney_rx$T3CC0$0$0                                        =  00CD G
-    Fbarney_rx$T3CC1$0$0                                        =  00CF G
-    Fbarney_rx$T3CCTL0$0$0                                      =  00CC G
-    Fbarney_rx$T3CCTL1$0$0                                      =  00CE G
-    Fbarney_rx$T3CH0IF$0$0                                      =  00D9 G
-    Fbarney_rx$T3CH1IF$0$0                                      =  00DA G
-    Fbarney_rx$T3CNT$0$0                                        =  00CA G
-    Fbarney_rx$T3CTL$0$0                                        =  00CB G
-    Fbarney_rx$T3IE$0$0                                         =  00BB G
-    Fbarney_rx$T3IF$0$0                                         =  00C3 G
-    Fbarney_rx$T3OVFIF$0$0                                      =  00D8 G
-    Fbarney_rx$T4CC0$0$0                                        =  00ED G
-    Fbarney_rx$T4CC1$0$0                                        =  00EF G
-    Fbarney_rx$T4CCTL0$0$0                                      =  00EC G
-    Fbarney_rx$T4CCTL1$0$0                                      =  00EE G
-    Fbarney_rx$T4CH0IF$0$0                                      =  00DC G
-    Fbarney_rx$T4CH1IF$0$0                                      =  00DD G
-    Fbarney_rx$T4CNT$0$0                                        =  00EA G
-    Fbarney_rx$T4CTL$0$0                                        =  00EB G
-    Fbarney_rx$T4IE$0$0                                         =  00BC G
-    Fbarney_rx$T4IF$0$0                                         =  00C4 G
-    Fbarney_rx$T4OVFIF$0$0                                      =  00DB G
-    Fbarney_rx$TCON$0$0                                         =  0088 G
-    Fbarney_rx$TEST0$0$0                                        =  DF25 G
-    Fbarney_rx$TEST1$0$0                                        =  DF24 G
-    Fbarney_rx$TEST2$0$0                                        =  DF23 G
-    Fbarney_rx$TIMIF$0$0                                        =  00D8 G
-    Fbarney_rx$U0BAUD$0$0                                       =  00C2 G
-    Fbarney_rx$U0CSR$0$0                                        =  0086 G
-    Fbarney_rx$U0DBUF$0$0                                       =  00C1 G
-    Fbarney_rx$U0GCR$0$0                                        =  00C5 G
-    Fbarney_rx$U0UCR$0$0                                        =  00C4 G
-    Fbarney_rx$U1ACTIVE$0$0                                     =  00F8 G
-    Fbarney_rx$U1BAUD$0$0                                       =  00FA G
-    Fbarney_rx$U1CSR$0$0                                        =  00F8 G
-    Fbarney_rx$U1DBUF$0$0                                       =  00F9 G
-    Fbarney_rx$U1ERR$0$0                                        =  00FB G
-    Fbarney_rx$U1FE$0$0                                         =  00FC G
-    Fbarney_rx$U1GCR$0$0                                        =  00FC G
-    Fbarney_rx$U1MODE$0$0                                       =  00FF G
-    Fbarney_rx$U1RE$0$0                                         =  00FE G
-    Fbarney_rx$U1RX_BYTE$0$0                                    =  00FA G
-    Fbarney_rx$U1SLAVE$0$0                                      =  00FD G
-    Fbarney_rx$U1TX_BYTE$0$0                                    =  00F9 G
-    Fbarney_rx$U1UCR$0$0                                        =  00FB G
-    Fbarney_rx$URX0IE$0$0                                       =  00AA G
-    Fbarney_rx$URX0IF$0$0                                       =  008B G
-    Fbarney_rx$URX1IE$0$0                                       =  00AB G
-    Fbarney_rx$URX1IF$0$0                                       =  008F G
-    Fbarney_rx$USBADDR$0$0                                      =  DE00 G
-    Fbarney_rx$USBCIE$0$0                                       =  DE0B G
-    Fbarney_rx$USBCIF$0$0                                       =  DE06 G
-    Fbarney_rx$USBCNTH$0$0                                      =  DE17 G
-    Fbarney_rx$USBCNTL$0$0                                      =  DE16 G
-    Fbarney_rx$USBCSIH$0$0                                      =  DE12 G
-    Fbarney_rx$USBCSIL$0$0                                      =  DE11 G
-    Fbarney_rx$USBCSOH$0$0                                      =  DE15 G
-    Fbarney_rx$USBCSOL$0$0                                      =  DE14 G
-    Fbarney_rx$USBF0$0$0                                        =  DE20 G
-    Fbarney_rx$USBF1$0$0                                        =  DE22 G
-    Fbarney_rx$USBF2$0$0                                        =  DE24 G
-    Fbarney_rx$USBF3$0$0                                        =  DE26 G
-    Fbarney_rx$USBF4$0$0                                        =  DE28 G
-    Fbarney_rx$USBF5$0$0                                        =  DE2A G
-    Fbarney_rx$USBFRMH$0$0                                      =  DE0D G
-    Fbarney_rx$USBFRML$0$0                                      =  DE0C G
-    Fbarney_rx$USBIIE$0$0                                       =  DE07 G
-    Fbarney_rx$USBIIF$0$0                                       =  DE02 G
-    Fbarney_rx$USBINDEX$0$0                                     =  DE0E G
-    Fbarney_rx$USBMAXI$0$0                                      =  DE10 G
-    Fbarney_rx$USBMAXO$0$0                                      =  DE13 G
-    Fbarney_rx$USBOIE$0$0                                       =  DE09 G
-    Fbarney_rx$USBOIF$0$0                                       =  DE04 G
-    Fbarney_rx$USBPOW$0$0                                       =  DE01 G
-    Fbarney_rx$UTX0IF$0$0                                       =  00E9 G
-    Fbarney_rx$UTX1IF$0$0                                       =  00EA G
-    Fbarney_rx$VCO_VC_DAC$0$0                                   =  DF3D G
-    Fbarney_rx$VERSION$0$0                                      =  DF37 G
-    Fbarney_rx$WDCTL$0$0                                        =  00C9 G
-    Fbarney_rx$WDTIF$0$0                                        =  00EC G
-    Fbarney_rx$WORCTRL$0$0                                      =  00A2 G
-    Fbarney_rx$WOREVT0$0$0                                      =  00A3 G
-    Fbarney_rx$WOREVT1$0$0                                      =  00A4 G
-    Fbarney_rx$WORIRQ$0$0                                       =  00A1 G
-    Fbarney_rx$WORTIME0$0$0                                     =  00A5 G
-    Fbarney_rx$WORTIME1$0$0                                     =  00A6 G
-    Fbarney_rx$_IEN06$0$0                                       =  00AE G
-    Fbarney_rx$_IEN16$0$0                                       =  00BE G
-    Fbarney_rx$_IEN17$0$0                                       =  00BF G
-    Fbarney_rx$_IRCON25$0$0                                     =  00ED G
-    Fbarney_rx$_IRCON26$0$0                                     =  00EE G
-    Fbarney_rx$_IRCON27$0$0                                     =  00EF G
-    Fbarney_rx$_IRCON6$0$0                                      =  00C6 G
-    Fbarney_rx$_SOCON2$0$0                                      =  009A G
-    Fbarney_rx$_SOCON3$0$0                                      =  009B G
-    Fbarney_rx$_SOCON4$0$0                                      =  009C G
-    Fbarney_rx$_SOCON5$0$0                                      =  009D G
-    Fbarney_rx$_SOCON6$0$0                                      =  009E G
-    Fbarney_rx$_SOCON7$0$0                                      =  009F G
-    Fbarney_rx$_TCON_0$0$0                                      =  0088 G
-    Fbarney_rx$_TCON_2$0$0                                      =  008A G
-    Fbarney_rx$_TCON_4$0$0                                      =  008C G
-    Fbarney_rx$_TCON_6$0$0                                      =  008E G
-    Fbarney_rx$_TIMIF7$0$0                                      =  00DF G
- 19 Fbarney_rx$_str_0$0$0                                       =  0000 GR
- 19 Fbarney_rx$_str_1$0$0                                       =  0028 GR
+    Fbambam_remote_rx$AC$0$0                                    =  00D6 G
+    Fbambam_remote_rx$ACC$0$0                                   =  00E0 G
+    Fbambam_remote_rx$ACC_0$0$0                                 =  00E0 G
+    Fbambam_remote_rx$ACC_1$0$0                                 =  00E1 G
+    Fbambam_remote_rx$ACC_2$0$0                                 =  00E2 G
+    Fbambam_remote_rx$ACC_3$0$0                                 =  00E3 G
+    Fbambam_remote_rx$ACC_4$0$0                                 =  00E4 G
+    Fbambam_remote_rx$ACC_5$0$0                                 =  00E5 G
+    Fbambam_remote_rx$ACC_6$0$0                                 =  00E6 G
+    Fbambam_remote_rx$ACC_7$0$0                                 =  00E7 G
+    Fbambam_remote_rx$ADC$0$0                                   =  FFFFBBBA G
+    Fbambam_remote_rx$ADCCFG$0$0                                =  00F2 G
+    Fbambam_remote_rx$ADCCON1$0$0                               =  00B4 G
+    Fbambam_remote_rx$ADCCON2$0$0                               =  00B5 G
+    Fbambam_remote_rx$ADCCON3$0$0                               =  00B6 G
+    Fbambam_remote_rx$ADCH$0$0                                  =  00BB G
+    Fbambam_remote_rx$ADCIE$0$0                                 =  00A9 G
+    Fbambam_remote_rx$ADCIF$0$0                                 =  008D G
+    Fbambam_remote_rx$ADCL$0$0                                  =  00BA G
+    Fbambam_remote_rx$ADDR$0$0                                  =  DF05 G
+    Fbambam_remote_rx$AGCCTRL0$0$0                              =  DF19 G
+    Fbambam_remote_rx$AGCCTRL1$0$0                              =  DF18 G
+    Fbambam_remote_rx$AGCCTRL2$0$0                              =  DF17 G
+    Fbambam_remote_rx$B$0$0                                     =  00F0 G
+    Fbambam_remote_rx$BSCFG$0$0                                 =  DF16 G
+    Fbambam_remote_rx$B_0$0$0                                   =  00F0 G
+    Fbambam_remote_rx$B_1$0$0                                   =  00F1 G
+    Fbambam_remote_rx$B_2$0$0                                   =  00F2 G
+    Fbambam_remote_rx$B_3$0$0                                   =  00F3 G
+    Fbambam_remote_rx$B_4$0$0                                   =  00F4 G
+    Fbambam_remote_rx$B_5$0$0                                   =  00F5 G
+    Fbambam_remote_rx$B_6$0$0                                   =  00F6 G
+    Fbambam_remote_rx$B_7$0$0                                   =  00F7 G
+    Fbambam_remote_rx$CHANNR$0$0                                =  DF06 G
+    Fbambam_remote_rx$CLKCON$0$0                                =  00C6 G
+    Fbambam_remote_rx$CY$0$0                                    =  00D7 G
+    Fbambam_remote_rx$DEVIATN$0$0                               =  DF11 G
+    Fbambam_remote_rx$DMA0CFG$0$0                               =  FFFFD5D4 G
+    Fbambam_remote_rx$DMA0CFGH$0$0                              =  00D5 G
+    Fbambam_remote_rx$DMA0CFGL$0$0                              =  00D4 G
+    Fbambam_remote_rx$DMA1CFG$0$0                               =  FFFFD3D2 G
+    Fbambam_remote_rx$DMA1CFGH$0$0                              =  00D3 G
+    Fbambam_remote_rx$DMA1CFGL$0$0                              =  00D2 G
+    Fbambam_remote_rx$DMAARM$0$0                                =  00D6 G
+    Fbambam_remote_rx$DMAIE$0$0                                 =  00B8 G
+    Fbambam_remote_rx$DMAIF$0$0                                 =  00C0 G
+    Fbambam_remote_rx$DMAIRQ$0$0                                =  00D1 G
+    Fbambam_remote_rx$DMAREQ$0$0                                =  00D7 G
+    Fbambam_remote_rx$DPH0$0$0                                  =  0083 G
+    Fbambam_remote_rx$DPH1$0$0                                  =  0085 G
+    Fbambam_remote_rx$DPL0$0$0                                  =  0082 G
+    Fbambam_remote_rx$DPL1$0$0                                  =  0084 G
+    Fbambam_remote_rx$DPS$0$0                                   =  0092 G
+    Fbambam_remote_rx$EA$0$0                                    =  00AF G
+    Fbambam_remote_rx$ENCCS$0$0                                 =  00B3 G
+    Fbambam_remote_rx$ENCDI$0$0                                 =  00B1 G
+    Fbambam_remote_rx$ENCDO$0$0                                 =  00B2 G
+    Fbambam_remote_rx$ENCIE$0$0                                 =  00AC G
+    Fbambam_remote_rx$ENCIF_0$0$0                               =  0098 G
+    Fbambam_remote_rx$ENCIF_1$0$0                               =  0099 G
+    Fbambam_remote_rx$ENDIAN$0$0                                =  0095 G
+    Fbambam_remote_rx$F0$0$0                                    =  00D5 G
+    Fbambam_remote_rx$F1$0$0                                    =  00D1 G
+    Fbambam_remote_rx$FADDR$0$0                                 =  FFFFADAC G
+    Fbambam_remote_rx$FADDRH$0$0                                =  00AD G
+    Fbambam_remote_rx$FADDRL$0$0                                =  00AC G
+    Fbambam_remote_rx$FCTL$0$0                                  =  00AE G
+    Fbambam_remote_rx$FOCCFG$0$0                                =  DF15 G
+    Fbambam_remote_rx$FREND0$0$0                                =  DF1B G
+    Fbambam_remote_rx$FREND1$0$0                                =  DF1A G
+    Fbambam_remote_rx$FREQ0$0$0                                 =  DF0B G
+    Fbambam_remote_rx$FREQ1$0$0                                 =  DF0A G
+    Fbambam_remote_rx$FREQ2$0$0                                 =  DF09 G
+    Fbambam_remote_rx$FREQEST$0$0                               =  DF38 G
+    Fbambam_remote_rx$FSCAL0$0$0                                =  DF1F G
+    Fbambam_remote_rx$FSCAL1$0$0                                =  DF1E G
+    Fbambam_remote_rx$FSCAL2$0$0                                =  DF1D G
+    Fbambam_remote_rx$FSCAL3$0$0                                =  DF1C G
+    Fbambam_remote_rx$FSCTRL0$0$0                               =  DF08 G
+    Fbambam_remote_rx$FSCTRL1$0$0                               =  DF07 G
+    Fbambam_remote_rx$FWDATA$0$0                                =  00AF G
+    Fbambam_remote_rx$FWT$0$0                                   =  00AB G
+    Fbambam_remote_rx$I2SCFG0$0$0                               =  DF40 G
+    Fbambam_remote_rx$I2SCFG1$0$0                               =  DF41 G
+    Fbambam_remote_rx$I2SCLKF0$0$0                              =  DF46 G
+    Fbambam_remote_rx$I2SCLKF1$0$0                              =  DF47 G
+    Fbambam_remote_rx$I2SCLKF2$0$0                              =  DF48 G
+    Fbambam_remote_rx$I2SDATH$0$0                               =  DF43 G
+    Fbambam_remote_rx$I2SDATL$0$0                               =  DF42 G
+    Fbambam_remote_rx$I2SSTAT$0$0                               =  DF45 G
+    Fbambam_remote_rx$I2SWCNT$0$0                               =  DF44 G
+    Fbambam_remote_rx$IEN0$0$0                                  =  00A8 G
+    Fbambam_remote_rx$IEN1$0$0                                  =  00B8 G
+    Fbambam_remote_rx$IEN2$0$0                                  =  009A G
+    Fbambam_remote_rx$IOCFG0$0$0                                =  DF31 G
+    Fbambam_remote_rx$IOCFG1$0$0                                =  DF30 G
+    Fbambam_remote_rx$IOCFG2$0$0                                =  DF2F G
+    Fbambam_remote_rx$IP0$0$0                                   =  00A9 G
+    Fbambam_remote_rx$IP1$0$0                                   =  00B9 G
+    Fbambam_remote_rx$IRCON$0$0                                 =  00C0 G
+    Fbambam_remote_rx$IRCON2$0$0                                =  00E8 G
+    Fbambam_remote_rx$LQI$0$0                                   =  DF39 G
+    Fbambam_remote_rx$MARCSTATE$0$0                             =  DF3B G
+    Fbambam_remote_rx$MCSM0$0$0                                 =  DF14 G
+    Fbambam_remote_rx$MCSM1$0$0                                 =  DF13 G
+    Fbambam_remote_rx$MCSM2$0$0                                 =  DF12 G
+    Fbambam_remote_rx$MDMCFG0$0$0                               =  DF10 G
+    Fbambam_remote_rx$MDMCFG1$0$0                               =  DF0F G
+    Fbambam_remote_rx$MDMCFG2$0$0                               =  DF0E G
+    Fbambam_remote_rx$MDMCFG3$0$0                               =  DF0D G
+    Fbambam_remote_rx$MDMCFG4$0$0                               =  DF0C G
+    Fbambam_remote_rx$MEMCTR$0$0                                =  00C7 G
+    Fbambam_remote_rx$MPAGE$0$0                                 =  0093 G
+    Fbambam_remote_rx$OV$0$0                                    =  00D2 G
+    Fbambam_remote_rx$OVFIM$0$0                                 =  00DE G
+    Fbambam_remote_rx$P$0$0                                     =  00D0 G
+    Fbambam_remote_rx$P0$0$0                                    =  0080 G
+    Fbambam_remote_rx$P0DIR$0$0                                 =  00FD G
+    Fbambam_remote_rx$P0IE$0$0                                  =  00BD G
+    Fbambam_remote_rx$P0IF$0$0                                  =  00C5 G
+    Fbambam_remote_rx$P0IFG$0$0                                 =  0089 G
+    Fbambam_remote_rx$P0INP$0$0                                 =  008F G
+    Fbambam_remote_rx$P0SEL$0$0                                 =  00F3 G
+    Fbambam_remote_rx$P0_0$0$0                                  =  0080 G
+    Fbambam_remote_rx$P0_1$0$0                                  =  0081 G
+    Fbambam_remote_rx$P0_2$0$0                                  =  0082 G
+    Fbambam_remote_rx$P0_3$0$0                                  =  0083 G
+    Fbambam_remote_rx$P0_4$0$0                                  =  0084 G
+    Fbambam_remote_rx$P0_5$0$0                                  =  0085 G
+    Fbambam_remote_rx$P0_6$0$0                                  =  0086 G
+    Fbambam_remote_rx$P0_7$0$0                                  =  0087 G
+    Fbambam_remote_rx$P1$0$0                                    =  0090 G
+    Fbambam_remote_rx$P1DIR$0$0                                 =  00FE G
+    Fbambam_remote_rx$P1IEN$0$0                                 =  008D G
+    Fbambam_remote_rx$P1IF$0$0                                  =  00EB G
+    Fbambam_remote_rx$P1IFG$0$0                                 =  008A G
+    Fbambam_remote_rx$P1INP$0$0                                 =  00F6 G
+    Fbambam_remote_rx$P1SEL$0$0                                 =  00F4 G
+    Fbambam_remote_rx$P1_0$0$0                                  =  0090 G
+    Fbambam_remote_rx$P1_1$0$0                                  =  0091 G
+    Fbambam_remote_rx$P1_2$0$0                                  =  0092 G
+    Fbambam_remote_rx$P1_3$0$0                                  =  0093 G
+    Fbambam_remote_rx$P1_4$0$0                                  =  0094 G
+    Fbambam_remote_rx$P1_5$0$0                                  =  0095 G
+    Fbambam_remote_rx$P1_6$0$0                                  =  0096 G
+    Fbambam_remote_rx$P1_7$0$0                                  =  0097 G
+    Fbambam_remote_rx$P2$0$0                                    =  00A0 G
+    Fbambam_remote_rx$P2DIR$0$0                                 =  00FF G
+    Fbambam_remote_rx$P2IF$0$0                                  =  00E8 G
+    Fbambam_remote_rx$P2IFG$0$0                                 =  008B G
+    Fbambam_remote_rx$P2INP$0$0                                 =  00F7 G
+    Fbambam_remote_rx$P2SEL$0$0                                 =  00F5 G
+    Fbambam_remote_rx$P2_0$0$0                                  =  00A0 G
+    Fbambam_remote_rx$P2_1$0$0                                  =  00A1 G
+    Fbambam_remote_rx$P2_2$0$0                                  =  00A2 G
+    Fbambam_remote_rx$P2_3$0$0                                  =  00A3 G
+    Fbambam_remote_rx$P2_4$0$0                                  =  00A4 G
+    Fbambam_remote_rx$P2_5$0$0                                  =  00A5 G
+    Fbambam_remote_rx$P2_6$0$0                                  =  00A6 G
+    Fbambam_remote_rx$P2_7$0$0                                  =  00A7 G
+    Fbambam_remote_rx$PARTNUM$0$0                               =  DF36 G
+    Fbambam_remote_rx$PA_TABLE0$0$0                             =  DF2E G
+    Fbambam_remote_rx$PCON$0$0                                  =  0087 G
+    Fbambam_remote_rx$PERCFG$0$0                                =  00F1 G
+    Fbambam_remote_rx$PICTL$0$0                                 =  008C G
+    Fbambam_remote_rx$PKTCTRL0$0$0                              =  DF04 G
+    Fbambam_remote_rx$PKTCTRL1$0$0                              =  DF03 G
+    Fbambam_remote_rx$PKTLEN$0$0                                =  DF02 G
+    Fbambam_remote_rx$PKTSTATUS$0$0                             =  DF3C G
+    Fbambam_remote_rx$PSW$0$0                                   =  00D0 G
+    Fbambam_remote_rx$RFD$0$0                                   =  00D9 G
+    Fbambam_remote_rx$RFIF$0$0                                  =  00E9 G
+    Fbambam_remote_rx$RFIM$0$0                                  =  0091 G
+    Fbambam_remote_rx$RFST$0$0                                  =  00E1 G
+    Fbambam_remote_rx$RFTXRXIE$0$0                              =  00A8 G
+    Fbambam_remote_rx$RFTXRXIF$0$0                              =  0089 G
+    Fbambam_remote_rx$RNDH$0$0                                  =  00BD G
+    Fbambam_remote_rx$RNDL$0$0                                  =  00BC G
+    Fbambam_remote_rx$RS0$0$0                                   =  00D3 G
+    Fbambam_remote_rx$RS1$0$0                                   =  00D4 G
+    Fbambam_remote_rx$RSSI$0$0                                  =  DF3A G
+    Fbambam_remote_rx$S0CON$0$0                                 =  0098 G
+    Fbambam_remote_rx$S1CON$0$0                                 =  009B G
+    Fbambam_remote_rx$SLEEP$0$0                                 =  00BE G
+    Fbambam_remote_rx$SP$0$0                                    =  0081 G
+    Fbambam_remote_rx$STIE$0$0                                  =  00AD G
+    Fbambam_remote_rx$STIF$0$0                                  =  00C7 G
+    Fbambam_remote_rx$SYNC0$0$0                                 =  DF01 G
+    Fbambam_remote_rx$SYNC1$0$0                                 =  DF00 G
+    Fbambam_remote_rx$T1CC0$0$0                                 =  FFFFDBDA G
+    Fbambam_remote_rx$T1CC0H$0$0                                =  00DB G
+    Fbambam_remote_rx$T1CC0L$0$0                                =  00DA G
+    Fbambam_remote_rx$T1CC1$0$0                                 =  FFFFDDDC G
+    Fbambam_remote_rx$T1CC1H$0$0                                =  00DD G
+    Fbambam_remote_rx$T1CC1L$0$0                                =  00DC G
+    Fbambam_remote_rx$T1CC2$0$0                                 =  FFFFDFDE G
+    Fbambam_remote_rx$T1CC2H$0$0                                =  00DF G
+    Fbambam_remote_rx$T1CC2L$0$0                                =  00DE G
+    Fbambam_remote_rx$T1CCTL0$0$0                               =  00E5 G
+    Fbambam_remote_rx$T1CCTL1$0$0                               =  00E6 G
+    Fbambam_remote_rx$T1CCTL2$0$0                               =  00E7 G
+    Fbambam_remote_rx$T1CNTH$0$0                                =  00E3 G
+    Fbambam_remote_rx$T1CNTL$0$0                                =  00E2 G
+    Fbambam_remote_rx$T1CTL$0$0                                 =  00E4 G
+    Fbambam_remote_rx$T1IE$0$0                                  =  00B9 G
+    Fbambam_remote_rx$T1IF$0$0                                  =  00C1 G
+    Fbambam_remote_rx$T2CT$0$0                                  =  009C G
+    Fbambam_remote_rx$T2CTL$0$0                                 =  009E G
+    Fbambam_remote_rx$T2IE$0$0                                  =  00BA G
+    Fbambam_remote_rx$T2IF$0$0                                  =  00C2 G
+    Fbambam_remote_rx$T2PR$0$0                                  =  009D G
+    Fbambam_remote_rx$T3CC0$0$0                                 =  00CD G
+    Fbambam_remote_rx$T3CC1$0$0                                 =  00CF G
+    Fbambam_remote_rx$T3CCTL0$0$0                               =  00CC G
+    Fbambam_remote_rx$T3CCTL1$0$0                               =  00CE G
+    Fbambam_remote_rx$T3CH0IF$0$0                               =  00D9 G
+    Fbambam_remote_rx$T3CH1IF$0$0                               =  00DA G
+    Fbambam_remote_rx$T3CNT$0$0                                 =  00CA G
+    Fbambam_remote_rx$T3CTL$0$0                                 =  00CB G
+    Fbambam_remote_rx$T3IE$0$0                                  =  00BB G
+    Fbambam_remote_rx$T3IF$0$0                                  =  00C3 G
+    Fbambam_remote_rx$T3OVFIF$0$0                               =  00D8 G
+    Fbambam_remote_rx$T4CC0$0$0                                 =  00ED G
+    Fbambam_remote_rx$T4CC1$0$0                                 =  00EF G
+    Fbambam_remote_rx$T4CCTL0$0$0                               =  00EC G
+    Fbambam_remote_rx$T4CCTL1$0$0                               =  00EE G
+    Fbambam_remote_rx$T4CH0IF$0$0                               =  00DC G
+    Fbambam_remote_rx$T4CH1IF$0$0                               =  00DD G
+    Fbambam_remote_rx$T4CNT$0$0                                 =  00EA G
+    Fbambam_remote_rx$T4CTL$0$0                                 =  00EB G
+    Fbambam_remote_rx$T4IE$0$0                                  =  00BC G
+    Fbambam_remote_rx$T4IF$0$0                                  =  00C4 G
+    Fbambam_remote_rx$T4OVFIF$0$0                               =  00DB G
+    Fbambam_remote_rx$TCON$0$0                                  =  0088 G
+    Fbambam_remote_rx$TEST0$0$0                                 =  DF25 G
+    Fbambam_remote_rx$TEST1$0$0                                 =  DF24 G
+    Fbambam_remote_rx$TEST2$0$0                                 =  DF23 G
+    Fbambam_remote_rx$TIMIF$0$0                                 =  00D8 G
+    Fbambam_remote_rx$U0BAUD$0$0                                =  00C2 G
+    Fbambam_remote_rx$U0CSR$0$0                                 =  0086 G
+    Fbambam_remote_rx$U0DBUF$0$0                                =  00C1 G
+    Fbambam_remote_rx$U0GCR$0$0                                 =  00C5 G
+    Fbambam_remote_rx$U0UCR$0$0                                 =  00C4 G
+    Fbambam_remote_rx$U1ACTIVE$0$0                              =  00F8 G
+    Fbambam_remote_rx$U1BAUD$0$0                                =  00FA G
+    Fbambam_remote_rx$U1CSR$0$0                                 =  00F8 G
+    Fbambam_remote_rx$U1DBUF$0$0                                =  00F9 G
+    Fbambam_remote_rx$U1ERR$0$0                                 =  00FB G
+    Fbambam_remote_rx$U1FE$0$0                                  =  00FC G
+    Fbambam_remote_rx$U1GCR$0$0                                 =  00FC G
+    Fbambam_remote_rx$U1MODE$0$0                                =  00FF G
+    Fbambam_remote_rx$U1RE$0$0                                  =  00FE G
+    Fbambam_remote_rx$U1RX_BYTE$0$0                             =  00FA G
+    Fbambam_remote_rx$U1SLAVE$0$0                               =  00FD G
+    Fbambam_remote_rx$U1TX_BYTE$0$0                             =  00F9 G
+    Fbambam_remote_rx$U1UCR$0$0                                 =  00FB G
+    Fbambam_remote_rx$URX0IE$0$0                                =  00AA G
+    Fbambam_remote_rx$URX0IF$0$0                                =  008B G
+    Fbambam_remote_rx$URX1IE$0$0                                =  00AB G
+    Fbambam_remote_rx$URX1IF$0$0                                =  008F G
+    Fbambam_remote_rx$USBADDR$0$0                               =  DE00 G
+    Fbambam_remote_rx$USBCIE$0$0                                =  DE0B G
+    Fbambam_remote_rx$USBCIF$0$0                                =  DE06 G
+    Fbambam_remote_rx$USBCNTH$0$0                               =  DE17 G
+    Fbambam_remote_rx$USBCNTL$0$0                               =  DE16 G
+    Fbambam_remote_rx$USBCSIH$0$0                               =  DE12 G
+    Fbambam_remote_rx$USBCSIL$0$0                               =  DE11 G
+    Fbambam_remote_rx$USBCSOH$0$0                               =  DE15 G
+    Fbambam_remote_rx$USBCSOL$0$0                               =  DE14 G
+    Fbambam_remote_rx$USBF0$0$0                                 =  DE20 G
+    Fbambam_remote_rx$USBF1$0$0                                 =  DE22 G
+    Fbambam_remote_rx$USBF2$0$0                                 =  DE24 G
+    Fbambam_remote_rx$USBF3$0$0                                 =  DE26 G
+    Fbambam_remote_rx$USBF4$0$0                                 =  DE28 G
+    Fbambam_remote_rx$USBF5$0$0                                 =  DE2A G
+    Fbambam_remote_rx$USBFRMH$0$0                               =  DE0D G
+    Fbambam_remote_rx$USBFRML$0$0                               =  DE0C G
+    Fbambam_remote_rx$USBIIE$0$0                                =  DE07 G
+    Fbambam_remote_rx$USBIIF$0$0                                =  DE02 G
+    Fbambam_remote_rx$USBINDEX$0$0                              =  DE0E G
+    Fbambam_remote_rx$USBMAXI$0$0                               =  DE10 G
+    Fbambam_remote_rx$USBMAXO$0$0                               =  DE13 G
+    Fbambam_remote_rx$USBOIE$0$0                                =  DE09 G
+    Fbambam_remote_rx$USBOIF$0$0                                =  DE04 G
+    Fbambam_remote_rx$USBPOW$0$0                                =  DE01 G
+    Fbambam_remote_rx$UTX0IF$0$0                                =  00E9 G
+    Fbambam_remote_rx$UTX1IF$0$0                                =  00EA G
+    Fbambam_remote_rx$VCO_VC_DAC$0$0                            =  DF3D G
+    Fbambam_remote_rx$VERSION$0$0                               =  DF37 G
+    Fbambam_remote_rx$WDCTL$0$0                                 =  00C9 G
+    Fbambam_remote_rx$WDTIF$0$0                                 =  00EC G
+    Fbambam_remote_rx$WORCTRL$0$0                               =  00A2 G
+    Fbambam_remote_rx$WOREVT0$0$0                               =  00A3 G
+    Fbambam_remote_rx$WOREVT1$0$0                               =  00A4 G
+    Fbambam_remote_rx$WORIRQ$0$0                                =  00A1 G
+    Fbambam_remote_rx$WORTIME0$0$0                              =  00A5 G
+    Fbambam_remote_rx$WORTIME1$0$0                              =  00A6 G
+    Fbambam_remote_rx$_IEN06$0$0                                =  00AE G
+    Fbambam_remote_rx$_IEN16$0$0                                =  00BE G
+    Fbambam_remote_rx$_IEN17$0$0                                =  00BF G
+    Fbambam_remote_rx$_IRCON25$0$0                              =  00ED G
+    Fbambam_remote_rx$_IRCON26$0$0                              =  00EE G
+    Fbambam_remote_rx$_IRCON27$0$0                              =  00EF G
+    Fbambam_remote_rx$_IRCON6$0$0                               =  00C6 G
+    Fbambam_remote_rx$_SOCON2$0$0                               =  009A G
+    Fbambam_remote_rx$_SOCON3$0$0                               =  009B G
+    Fbambam_remote_rx$_SOCON4$0$0                               =  009C G
+    Fbambam_remote_rx$_SOCON5$0$0                               =  009D G
+    Fbambam_remote_rx$_SOCON6$0$0                               =  009E G
+    Fbambam_remote_rx$_SOCON7$0$0                               =  009F G
+    Fbambam_remote_rx$_TCON_0$0$0                               =  0088 G
+    Fbambam_remote_rx$_TCON_2$0$0                               =  008A G
+    Fbambam_remote_rx$_TCON_4$0$0                               =  008C G
+    Fbambam_remote_rx$_TCON_6$0$0                               =  008E G
+    Fbambam_remote_rx$_TIMIF7$0$0                               =  00DF G
+ 19 Fbambam_remote_rx$_str_0$0$0                                =  0000 GR
+ 19 Fbambam_remote_rx$_str_1$0$0                                =  0028 GR
  18 G$lineCodingChanged$0$0                                     =  019A GR
  18 G$main$0$0                                                  =  01B1 GR
  18 G$putchar$0$0                                               =  000E GR
@@ -698,14 +698,14 @@ Symbol Table
     IP.5                                                           00BD 
     IT0                                                            0088 
     IT1                                                            008A 
-  B Lbarney_rx.radioToUart1Service$rxPacket$1$1                 =  0000 GR
-  5 Lbarney_rx.radioToUart1Service$sloc0$1$0                    =  0000 GR
-  5 Lbarney_rx.radioToUart1Service$sloc1$1$0                    =  0001 GR
-  5 Lbarney_rx.radioToUart1Service$sloc2$1$0                    =  0003 GR
-  5 Lbarney_rx.radioToUart1Service$sloc3$1$0                    =  0005 GR
-  5 Lbarney_rx.radioToUart1Service$sloc4$1$0                    =  0007 GR
-  5 Lbarney_rx.radioToUart1Service$sloc5$1$0                    =  000B GR
-  5 Lbarney_rx.radioToUart1Service$sloc6$1$0                    =  000D GR
+  B Lbambam_remote_rx.radioToUart1Service$rxPacket$1$1          =  0000 GR
+  5 Lbambam_remote_rx.radioToUart1Service$sloc0$1$0             =  0000 GR
+  5 Lbambam_remote_rx.radioToUart1Service$sloc1$1$0             =  0001 GR
+  5 Lbambam_remote_rx.radioToUart1Service$sloc2$1$0             =  0003 GR
+  5 Lbambam_remote_rx.radioToUart1Service$sloc3$1$0             =  0005 GR
+  5 Lbambam_remote_rx.radioToUart1Service$sloc4$1$0             =  0007 GR
+  5 Lbambam_remote_rx.radioToUart1Service$sloc5$1$0             =  000B GR
+  5 Lbambam_remote_rx.radioToUart1Service$sloc6$1$0             =  000D GR
     OV                                                             00D2 
     P                                                              00D0 
     P0                                                             0080 
